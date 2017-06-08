@@ -11,7 +11,9 @@ A curated list of awesome BI tools.
     - [Data Studio](https://www.google.com/analytics/data-studio/) by Google  
     - [Domo](https://www.domo.com/)
     - [Focuus](http://www.focuus.com/)
+    - [iCharts](https://icharts.net/)
     - [Looker](https://looker.com/)  
+    - [Numetric](https://www.numetric.com/)
     - [Meteorite](http://meteorite.bi/)
     - [Mode Analytics](https://modeanalytics.com/)  
     - [Pentaho](https://www.pentaho.com)
@@ -32,6 +34,10 @@ A curated list of awesome BI tools.
 
 
 - ETL
+  - SaaS
+    - [Alooma](https://www.alooma.com/)
+    - [Fivetran](https://www.fivetran.com/)
+    
 
   - Open Source
     - [Airflow](https://airflow.incubator.apache.org/)
@@ -40,7 +46,13 @@ A curated list of awesome BI tools.
 
 - Storage
   - SaaS
+    - [BigQuery](https://cloud.google.com/bigquery/) by Google  
     - [Data Virtuality](http://datavirtuality.com/)
+    - [Exasol](http://www.exasol.com/)
+    - [Redshift](https://aws.amazon.com/de/redshift/)
+    - [Snowflake](https://www.snowflake.net/)
+    - [Treasure Data](https://www.treasuredata.com/)
+
 
 - Knowledge Management  
   - SaaS  
