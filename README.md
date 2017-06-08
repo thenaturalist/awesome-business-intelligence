@@ -5,6 +5,8 @@ A curated list of awesome BI tools.
 - Reporting
   - SaaS  
     - [Birst](https://www.birst.com/)  
+    - [Bouquet](https://openbouquet.io/)
+    - [Cluvio](https://www.cluvio.com/)
     - [Data Studio](https://www.google.com/analytics/data-studio/) by Google  
     - [Domo](https://www.domo.com/)
     - [Looker](https://looker.com/)  
@@ -20,6 +22,7 @@ A curated list of awesome BI tools.
     - [Metabase](http://www.metabase.com/)  
     - [Redash](https://github.com/getredash/redash)  
     - [Superset](https://github.com/airbnb/superset)  
+    - [Zeppelin](https://zeppelin.apache.org/)  
 
 
 - ETL
