@@ -10,7 +10,9 @@ A curated list of awesome BI tools.
     - [Looker](https://looker.com/)  
     - [Mode Analytics](https://modeanalytics.com/)  
     - [Periscope](https://www.periscopedata.com/)  
+    - [PopSQL](https://popsql.io/)  
     - [Sisense](https://www.sisense.com/)  
+    - [Slemma](https://slemma.com/)  
     - [Quicksight](https://quicksight.aws/) by Amazon  
 
 
