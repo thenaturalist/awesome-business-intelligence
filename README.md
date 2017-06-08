@@ -32,4 +32,13 @@ A curated list of awesome BI tools.
 - Storage
 
 
+- Knowledge Management  
+  - SaaS  
+    - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian  
+    
+  - Open Source  
+    - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb  
+    - [openKB](https://github.com/mrvautin/openKB)
+
+
 
