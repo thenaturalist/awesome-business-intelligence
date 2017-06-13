@@ -4,26 +4,29 @@ A curated list of awesome BI tools.
 
 - Reporting
   - SaaS  
-    - [Birst](https://www.birst.com/)  
-    - [Bouquet](https://openbouquet.io/)
-    - [Chartio](https://chartio.com/)
-    - [Cluvio](https://www.cluvio.com/)
-    - [Data Studio](https://www.google.com/analytics/data-studio/) by Google  
-    - [Domo](https://www.domo.com/)
-    - [Focuus](http://www.focuus.com/)
-    - [iCharts](https://icharts.net/)
-    - [Looker](https://looker.com/)  
-    - [Numetric](https://www.numetric.com/)
-    - [Meteorite](http://meteorite.bi/)
-    - [Mode Analytics](https://modeanalytics.com/)  
-    - [Pentaho](https://www.pentaho.com)
-    - [Periscope](https://www.periscopedata.com/)  
-    - [PopSQL](https://popsql.io/)  
-    - [Sisense](https://www.sisense.com/)  
-    - [Slemma](https://slemma.com/)  
-    - [Tableau](https://www.tableau.com)
-    - [Quicksight](https://quicksight.aws/) by Amazon  
-    - [QlikView](http://www.qlik.com/de-de/products/qlikview)
+    - Model approach:  
+      - [Looker](https://looker.com/)  
+      - [Numetric](https://www.numetric.com/)
+    
+    - SQL or other:  
+      - [Birst](https://www.birst.com/)  
+      - [Bouquet](https://openbouquet.io/)
+      - [Chartio](https://chartio.com/)
+      - [Cluvio](https://www.cluvio.com/)
+      - [Data Studio](https://www.google.com/analytics/data-studio/) by Google  
+      - [Domo](https://www.domo.com/)
+      - [Focuus](http://www.focuus.com/)
+      - [iCharts](https://icharts.net/)
+      - [Meteorite](http://meteorite.bi/)
+      - [Mode Analytics](https://modeanalytics.com/)  
+      - [Pentaho](https://www.pentaho.com)
+      - [Periscope](https://www.periscopedata.com/)  
+      - [PopSQL](https://popsql.io/)  
+      - [Sisense](https://www.sisense.com/)  
+      - [Slemma](https://slemma.com/)  
+      - [Tableau](https://www.tableau.com)
+      - [Quicksight](https://quicksight.aws/) by Amazon  
+      - [QlikView](http://www.qlik.com/de-de/products/qlikview)
 
 
   - Open Source  
@@ -37,6 +40,9 @@ A curated list of awesome BI tools.
   - SaaS
     - [Alooma](https://www.alooma.com/)
     - [Fivetran](https://www.fivetran.com/)
+    - [Snaplogic](https://www.snaplogic.com/)
+    - [Stitch](https://www.stitchdata.com/)
+    - [Xplenty](https://www.xplenty.com/)
     
 
   - Open Source
@@ -62,5 +68,8 @@ A curated list of awesome BI tools.
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb  
     - [openKB](https://github.com/mrvautin/openKB)
 
+- BI PaaS
+  - Open Source
+    - [Bouquet](https://openbouquet.io/)
 
 
