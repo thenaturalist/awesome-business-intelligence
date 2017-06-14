@@ -39,6 +39,7 @@ A curated list of awesome BI tools.
 - ETL
   - SaaS
     - [Alooma](https://www.alooma.com/)
+    - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
     - [Snaplogic](https://www.snaplogic.com/)
     - [Stitch](https://www.stitchdata.com/)
