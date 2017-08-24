@@ -4,6 +4,8 @@ A curated list of awesome BI tools.
 - DB Management/ SQL Editor:
   - Open Source
     - [OmniDB](https://omnidb.org/index.php/en/)
+    
+  - SaaS
     - [POPSQL](https://popsql.io/)
 
 - Reporting
