@@ -19,9 +19,12 @@ A curated list of awesome BI tools.
       - [Bouquet](https://openbouquet.io/)
       - [Chartio](https://chartio.com/)
       - [Cluvio](https://www.cluvio.com/)
+      - [Contiamo](https://www.contiamo.com/)
+      - [Datapine](https://www.datapine.com)
       - [Data Studio](https://www.google.com/analytics/data-studio/) by Google  
       - [Domo](https://www.domo.com/)
       - [Focuus](http://www.focuus.com/)
+      - [Holistics](https://www.holistics.io/)
       - [iCharts](https://icharts.net/)
       - [Meteorite](http://meteorite.bi/)
       - [Mode Analytics](https://modeanalytics.com/)  
@@ -36,6 +39,8 @@ A curated list of awesome BI tools.
 
 
   - Open Source  
+    - [blazer](https://github.com/ankane/blazer) by Instacart
+    - [dashing](http://dashing.io/)
     - [Metabase](http://www.metabase.com/)  
     - [Redash](https://github.com/getredash/redash)  
     - [Superset](https://github.com/airbnb/superset)  
@@ -54,6 +59,7 @@ A curated list of awesome BI tools.
 
   - Open Source
     - [Airflow](https://airflow.incubator.apache.org/)
+    - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
 
 
 
