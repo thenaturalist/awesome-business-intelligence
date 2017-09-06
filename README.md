@@ -48,13 +48,14 @@ A curated list of awesome BI tools.
     - [Zeppelin](https://zeppelin.apache.org/)  
 
 
-- ETL
+- ETL / Data Modeling
   - SaaS
     - [Alooma](https://www.alooma.com/)
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
     - [Snaplogic](https://www.snaplogic.com/)
     - [Stitch](https://www.stitchdata.com/)
+    - [Trifacta](https://www.trifacta.com/)
     - [Xplenty](https://www.xplenty.com/)
     
 
