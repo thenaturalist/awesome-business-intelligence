@@ -31,7 +31,6 @@ A curated list of awesome BI tools.
       - [Mode Analytics](https://modeanalytics.com/)  
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)  
-      - [PopSQL](https://popsql.io/)  
       - [Sisense](https://www.sisense.com/)  
       - [Slemma](https://slemma.com/)  
       - [Tableau](https://www.tableau.com)
