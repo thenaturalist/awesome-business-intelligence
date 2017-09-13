@@ -7,6 +7,7 @@ A curated list of awesome BI tools.
     - [OmniDB](https://omnidb.org/index.php/en/)
     
   - SaaS / Freemium
+    - [JackDB](https://www.jackdb.com/)
     - [POPSQL](https://popsql.io/)
     - [Postico](https://eggerapps.at/postico/)
     - [Tableplus](https://tableplus.io/)
