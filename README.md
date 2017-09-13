@@ -7,6 +7,7 @@ A curated list of awesome BI tools.
     
   - SaaS
     - [POPSQL](https://popsql.io/)
+    - [Postico](https://eggerapps.at/postico/)
     - [Tableplus](https://tableplus.io/)
 
 - Reporting
