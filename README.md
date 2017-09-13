@@ -3,9 +3,10 @@ A curated list of awesome BI tools.
 
 - DB Management/ SQL Editor:
   - Open Source
+    - [DBeaver](https://dbeaver.jkiss.org/)
     - [OmniDB](https://omnidb.org/index.php/en/)
     
-  - SaaS
+  - SaaS / Freemium
     - [POPSQL](https://popsql.io/)
     - [Postico](https://eggerapps.at/postico/)
     - [Tableplus](https://tableplus.io/)
