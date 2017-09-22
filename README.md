@@ -4,6 +4,7 @@ A curated list of awesome BI tools.
 - DB Management/ SQL Editor:
   - Open Source
     - [DBeaver](https://dbeaver.jkiss.org/)
+    - [Franchise](https://franchise.cloud/)
     - [OmniDB](https://omnidb.org/index.php/en/)
     
   - SaaS / Freemium
