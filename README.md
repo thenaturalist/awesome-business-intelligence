@@ -1,7 +1,7 @@
 # Awesome Business Intelligence
 A curated list of awesome BI tools.
 
-- DB Management/ SQL Editor:
+- DB Management / SQL Editor:
   - Open Source
     - [DBeaver](https://dbeaver.jkiss.org/)
     - [Franchise](https://franchise.cloud/)
@@ -13,7 +13,7 @@ A curated list of awesome BI tools.
     - [Postico](https://eggerapps.at/postico/)
     - [Tableplus](https://tableplus.io/)
 
-- Reporting
+- Data Viz / Reporting
   - SaaS  
     - Model approach:  
       - [Looker](https://looker.com/)  
