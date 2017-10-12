@@ -40,6 +40,7 @@ A curated list of awesome BI tools.
       - [Tableau](https://www.tableau.com)
       - [Quicksight](https://quicksight.aws/) by Amazon  
       - [QlikView](http://www.qlik.com/de-de/products/qlikview)
+      - [Viur](https://www.viurdata.com/)
 
 
   - Open Source  
