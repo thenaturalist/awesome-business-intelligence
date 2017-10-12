@@ -12,6 +12,7 @@ A curated list of awesome BI tools.
     - [POPSQL](https://popsql.io/)
     - [Postico](https://eggerapps.at/postico/)
     - [Tableplus](https://tableplus.io/)
+    - [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms) by Microsoft
 
 - Data Viz / Reporting
   - SaaS  
@@ -34,9 +35,11 @@ A curated list of awesome BI tools.
       - [Meteorite](http://meteorite.bi/)
       - [Mode Analytics](https://modeanalytics.com/)  
       - [Pentaho](https://www.pentaho.com)
-      - [Periscope](https://www.periscopedata.com/)  
+      - [Periscope](https://www.periscopedata.com/)
+      - [PowerBI](https://powerbi.microsoft.com) by Microsoft
       - [Sisense](https://www.sisense.com/)  
-      - [Slemma](https://slemma.com/)  
+      - [Slemma](https://slemma.com/)
+      - [SQL Server Reporting Services](https://docs.microsoft.com/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports) by Microsoft
       - [Tableau](https://www.tableau.com)
       - [Quicksight](https://quicksight.aws/) by Amazon  
       - [QlikView](http://www.qlik.com/de-de/products/qlikview)
@@ -66,7 +69,16 @@ A curated list of awesome BI tools.
     - [Airflow](https://airflow.incubator.apache.org/)
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
 
-
+- BI PaaS
+  - SaaS
+    - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
+    
+  - Open Source
+    - [Bouquet](https://openbouquet.io/)
+    - [ELK Stack](https://www.elastic.co/products)
+      - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
+      - [Logstash](https://www.elastic.co/de/products/logstash)
+      - [Kibana](https://www.elastic.co/de/products/kibana)
 
 - Storage
   - SaaS
@@ -76,6 +88,12 @@ A curated list of awesome BI tools.
     - [Redshift](https://aws.amazon.com/de/redshift/)
     - [Snowflake](https://www.snowflake.net/)
     - [Treasure Data](https://www.treasuredata.com/)
+    
+  - Open Source
+    - [Apache HAWQ](https://hawq.incubator.apache.org/)
+    - [MySQL](https://www.mysql.com)
+    - [PostgreSQL](https://www.postgresql.org/)
+    
 
 
 - Knowledge Management  
@@ -86,8 +104,6 @@ A curated list of awesome BI tools.
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb  
     - [openKB](https://github.com/mrvautin/openKB)
 
-- BI PaaS
-  - Open Source
-    - [Bouquet](https://openbouquet.io/)
+
 
 
