@@ -12,7 +12,6 @@ A curated list of awesome BI tools.
     - [POPSQL](https://popsql.io/)
     - [Postico](https://eggerapps.at/postico/)
     - [Tableplus](https://tableplus.io/)
-    - [Silota](www.silota.com)
     - [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms) by Microsoft
 
 - Data Viz / Reporting
@@ -38,7 +37,8 @@ A curated list of awesome BI tools.
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
       - [PowerBI](https://powerbi.microsoft.com) by Microsoft
-      - [Sisense](https://www.sisense.com/)  
+      - [Silota](www.silota.com)
+      - [Sisense](https://www.sisense.com/)
       - [Slemma](https://slemma.com/)
       - [SQL Server Reporting Services](https://docs.microsoft.com/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports) by Microsoft
       - [Tableau](https://www.tableau.com)
