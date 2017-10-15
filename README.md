@@ -54,7 +54,7 @@ A curated list of awesome BI tools.
     - [Redash](https://github.com/getredash/redash)  
     - [Superset](https://github.com/airbnb/superset)  
     - [Zeppelin](https://zeppelin.apache.org/)  
-
+    - [Pentaho Reporting](https://community.hds.com/docs/DOC-1009856/)  
 
 - ETL / Data Modeling
   - SaaS
@@ -65,7 +65,7 @@ A curated list of awesome BI tools.
     - [Stitch](https://www.stitchdata.com/)
     - [Trifacta](https://www.trifacta.com/)
     - [Xplenty](https://www.xplenty.com/)
-    
+    - [Kettle](https://community.hds.com/docs/DOC-1009855)  
 
   - Open Source
     - [Airflow](https://airflow.incubator.apache.org/)
