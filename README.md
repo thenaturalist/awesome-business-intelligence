@@ -9,6 +9,7 @@ A curated list of awesome BI tools.
     
   - SaaS / Freemium
     - [JackDB](https://www.jackdb.com/)
+    - [Numeracy](https://numeracy.co/)
     - [POPSQL](https://popsql.io/)
     - [Postico](https://eggerapps.at/postico/)
     - [Tableplus](https://tableplus.io/)
@@ -94,6 +95,7 @@ A curated list of awesome BI tools.
   - Open Source
     - [Apache HAWQ](https://hawq.incubator.apache.org/)
     - [MySQL](https://www.mysql.com)
+    - [PipelineDB](https://www.pipelinedb.com/)
     - [PostgreSQL](https://www.postgresql.org/)
     
 
