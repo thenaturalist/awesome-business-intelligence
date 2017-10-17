@@ -76,6 +76,7 @@ A curated list of awesome BI tools.
 - BI PaaS
   - SaaS
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
+    - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
     
   - Open Source
     - [Bouquet](https://openbouquet.io/)
@@ -83,6 +84,12 @@ A curated list of awesome BI tools.
       - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
       - [Logstash](https://www.elastic.co/de/products/logstash)
       - [Kibana](https://www.elastic.co/de/products/kibana)
+    - [Pentaho Community Projects](https://community.hds.com/community/products-and-solutions/pentaho)
+      - [Mondrian OLAP](https://community.hds.com/docs/DOC-1009853)
+      - [Kettle ETL](https://community.hds.com/docs/DOC-1009855)
+      - [Pentaho Reporting](https://community.hds.com/docs/DOC-1009856)
+      - [Weka](https://community.hds.com/docs/DOC-1009857)
+      
 
 - Storage
   - SaaS
