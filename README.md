@@ -60,6 +60,7 @@ A curated list of awesome BI tools.
 - ETL / Data Modeling
   - SaaS
     - [Alooma](https://www.alooma.com/)
+    - [Blendo](https://www.blendo.co/)
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
     - [Snaplogic](https://www.snaplogic.com/)
