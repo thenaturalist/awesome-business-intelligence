@@ -6,6 +6,8 @@ A curated list of awesome BI tools.
     - [DBeaver](https://dbeaver.jkiss.org/)
     - [Franchise](https://franchise.cloud/)
     - [OmniDB](https://omnidb.org/index.php/en/)
+    - [Sqlelectron](https://sqlectron.github.io/)
+    - [SQL Tabs](https://www.sqltabs.com/)
     
   - SaaS / Freemium
     - [JackDB](https://www.jackdb.com/)
