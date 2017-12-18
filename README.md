@@ -14,8 +14,9 @@ A curated list of awesome BI tools.
     - [Numeracy](https://numeracy.co/)
     - [POPSQL](https://popsql.io/)
     - [Postico](https://eggerapps.at/postico/)
-    - [Tableplus](https://tableplus.io/)
+    - [RazorSQL](https://razorsql.com/index.html)
     - [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms) by Microsoft
+    - [Tableplus](https://tableplus.io/)
 
 - Data Viz / Reporting
   - SaaS  
