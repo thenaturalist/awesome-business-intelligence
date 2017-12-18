@@ -49,6 +49,7 @@ A curated list of awesome BI tools.
       - [Quicksight](https://quicksight.aws/) by Amazon  
       - [QlikView](http://www.qlik.com/de-de/products/qlikview)
       - [Viur](https://www.viurdata.com/)
+      - [Vizbee](https://vizbee.io/)
 
 
   - Open Source  
