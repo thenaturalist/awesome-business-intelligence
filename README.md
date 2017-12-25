@@ -17,6 +17,7 @@ A curated list of awesome BI tools.
     - [RazorSQL](https://razorsql.com/index.html)
     - [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms) by Microsoft
     - [Tableplus](https://tableplus.io/)
+    - [TeamSQL](https://teamsql.io/)
 
 - Data Viz / Reporting
   - SaaS  
