@@ -8,6 +8,7 @@ A curated list of awesome BI tools.
     - [OmniDB](https://omnidb.org/index.php/en/)
     - [Sqlelectron](https://sqlectron.github.io/)
     - [SQL Tabs](https://www.sqltabs.com/)
+    - [SQuirreL SQL](http://www.squirrelsql.org/)
     
   - SaaS / Freemium
     - [JackDB](https://www.jackdb.com/)
