@@ -43,7 +43,7 @@ A curated list of awesome BI tools.
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
       - [PowerBI](https://powerbi.microsoft.com) by Microsoft
-      - [Silota](www.silota.com)
+      - [Silota](http://www.silota.com)
       - [Sisense](https://www.sisense.com/)
       - [Slemma](https://slemma.com/)
       - [SQL Server Reporting Services](https://docs.microsoft.com/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports) by Microsoft
