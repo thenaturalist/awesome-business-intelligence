@@ -1,6 +1,12 @@
 # Awesome Business Intelligence
 A curated list of awesome BI tools.
 
+- Slack Interaction
+  - SaaS/ Freemium
+    - [Kiwi](https://www.kiwimydata.com/)
+    - [statsbot](https://statsbot.co/)
+
+
 - DB Management / SQL Editor:
   - Open Source
     - [DBeaver](https://dbeaver.jkiss.org/)
