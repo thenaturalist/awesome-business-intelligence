@@ -75,6 +75,7 @@ A curated list of awesome BI tools.
     - [Blendo](https://www.blendo.co/)
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
+    - [Glue](https://aws.amazon.com/de/glue/) by AWS
     - [Snaplogic](https://www.snaplogic.com/)
     - [Stitch](https://www.stitchdata.com/)
     - [Trifacta](https://www.trifacta.com/)
