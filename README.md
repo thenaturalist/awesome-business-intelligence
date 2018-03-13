@@ -1,13 +1,13 @@
 # Awesome Business Intelligence
 A curated list of awesome BI tools.
 
-- Slack Interaction
-  - SaaS/ Freemium
+- **Slack Interaction**
+  - SaaS
     - [Kiwi](https://www.kiwimydata.com/)
     - [statsbot](https://statsbot.co/)
 
 
-- DB Management / SQL Editor:
+- **SQL Client**
   - Open Source
     - [DBeaver](https://dbeaver.jkiss.org/)
     - [Franchise](https://franchise.cloud/)
@@ -16,7 +16,8 @@ A curated list of awesome BI tools.
     - [SQL Tabs](https://www.sqltabs.com/)
     - [SQuirreL SQL](http://www.squirrelsql.org/)
     
-  - SaaS / Freemium
+    
+  - SaaS
     - [JackDB](https://www.jackdb.com/)
     - [Numeracy](https://numeracy.co/)
     - [POPSQL](https://popsql.io/)
@@ -26,7 +27,8 @@ A curated list of awesome BI tools.
     - [Tableplus](https://tableplus.io/)
     - [TeamSQL](https://teamsql.io/)
 
-- Data Viz / Reporting
+
+- **Data Viz + Reporting**
   - SaaS  
     - Model approach:  
       - [Looker](https://looker.com/)  
@@ -67,9 +69,9 @@ A curated list of awesome BI tools.
     - [Redash](https://github.com/getredash/redash)  
     - [Superset](https://github.com/airbnb/superset)  
     - [Zeppelin](https://zeppelin.apache.org/)  
-
-
-- ETL / Data Modeling
+  
+  
+- **ETL + Data Modeling**
   - SaaS
     - [Alooma](https://www.alooma.com/)
     - [Blendo](https://www.blendo.co/)
@@ -87,7 +89,8 @@ A curated list of awesome BI tools.
     - [Airflow](https://airflow.incubator.apache.org/)
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
 
-- BI PaaS
+
+- **BI PaaS**
   - SaaS
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
@@ -102,10 +105,10 @@ A curated list of awesome BI tools.
       - [Mondrian OLAP](https://community.hds.com/docs/DOC-1009853)
       - [Kettle ETL](https://community.hds.com/docs/DOC-1009855)
       - [Pentaho Reporting](https://community.hds.com/docs/DOC-1009856)
-      - [Weka](https://community.hds.com/docs/DOC-1009857)
-      
-
-- Storage
+      - [Weka](https://community.hds.com/docs/DOC-1009857)  
+  
+  
+- **Storage**
   - SaaS
     - [BigQuery](https://cloud.google.com/bigquery/) by Google  
     - [Data Virtuality](http://datavirtuality.com/)
@@ -121,10 +124,10 @@ A curated list of awesome BI tools.
     - [PostgreSQL](https://www.postgresql.org/)
     
 
-
-- Knowledge Management  
+- **Knowledge Management**
   - SaaS  
     - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian  
+    
     
   - Open Source  
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb  
