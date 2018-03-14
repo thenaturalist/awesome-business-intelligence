@@ -66,6 +66,7 @@ A curated list of awesome BI tools.
     - [blazer](https://github.com/ankane/blazer) by Instacart
     - [dashing](http://dashing.io/)
     - [Metabase](http://www.metabase.com/)  
+    - [just-dashboard](https://kantord.github.io/just-dashboard/)  
     - [Redash](https://github.com/getredash/redash)  
     - [Superset](https://github.com/airbnb/superset)  
     - [Zeppelin](https://zeppelin.apache.org/)  
