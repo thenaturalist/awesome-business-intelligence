@@ -88,7 +88,8 @@ A curated list of awesome BI tools.
     
 
   - Open Source
-    - [Airflow](https://airflow.incubator.apache.org/)
+    - [Airflow](https://airflow.incubator.apache.org/) by Apache
+    - [Beam](https://beam.apache.org/) by Apache
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
 
 
