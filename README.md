@@ -76,6 +76,7 @@ A curated list of awesome BI tools.
   - SaaS
     - [Alooma](https://www.alooma.com/)
     - [Blendo](https://www.blendo.co/)
+    - [Dataflow](https://cloud.google.com/dataflow/) by Google Cloud
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
     - [Glue](https://aws.amazon.com/de/glue/) by AWS
