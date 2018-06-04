@@ -91,6 +91,8 @@ A curated list of awesome BI tools.
     - [Airflow](https://airflow.incubator.apache.org/) by Apache
     - [Beam](https://beam.apache.org/) by Apache
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
+    - [dbt (data build tool)](https://www.getdbt.com/)
+    - [Azkaban](https://azkaban.github.io/)
 
 
 - **BI PaaS**
