@@ -1,7 +1,16 @@
 # Awesome Business Intelligence
-A curated list of awesome BI tools.
-
-- **Slack Interaction**
+A curated list of awesome tools to interact with data.  
+ToC split by SaaS and OSS:  
+- Slack Integration
+- SQL Client
+- Data Viz + Reporting
+- ETL & Data Modeling
+- Data Platforms
+- Storage
+- Knowledge Management  
+  <br>
+  <br>
+- **Slack Integrations**
   - SaaS
     - [Kiwi](https://www.kiwimydata.com/)
     - [statsbot](https://statsbot.co/)
@@ -98,7 +107,7 @@ A curated list of awesome BI tools.
     
 
 
-- **BI PaaS**
+- **Data Platforms**
   - SaaS
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
