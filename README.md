@@ -89,10 +89,13 @@ A curated list of awesome BI tools.
 
   - Open Source
     - [Airflow](https://airflow.incubator.apache.org/) by Apache
-    - [Beam](https://beam.apache.org/) by Apache
-    - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
-    - [dbt (data build tool)](https://www.getdbt.com/)
     - [Azkaban](https://azkaban.github.io/)
+    - [Beam](https://beam.apache.org/) by Apache
+    - [dbt (data build tool)](https://www.getdbt.com/)
+    - [embulk](https://github.com/embulk/embulk) 
+    - [singer](https://www.singer.io/) by Stitch
+    - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
+    
 
 
 - **BI PaaS**
@@ -106,6 +109,7 @@ A curated list of awesome BI tools.
       - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
       - [Logstash](https://www.elastic.co/de/products/logstash)
       - [Kibana](https://www.elastic.co/de/products/kibana)
+    - [Meltano](https://gitlab.com/meltano/meltano) by GitLab
     - [Pentaho Community Projects](https://community.hds.com/community/products-and-solutions/pentaho)
       - [Mondrian OLAP](https://community.hds.com/docs/DOC-1009853)
       - [Kettle ETL](https://community.hds.com/docs/DOC-1009855)
