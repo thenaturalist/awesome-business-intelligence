@@ -90,6 +90,7 @@ ToC split by SaaS and OSS:
     - [Fivetran](https://www.fivetran.com/)
     - [Glue](https://aws.amazon.com/de/glue/) by AWS
     - [Matillion](https://www.matillion.com/)
+    - [Sinter](https://www.sinterdata.com/) by Fishtown Analytics
     - [Snaplogic](https://www.snaplogic.com/)
     - [Stitch](https://www.stitchdata.com/)
     - [Trifacta](https://www.trifacta.com/)
@@ -100,7 +101,7 @@ ToC split by SaaS and OSS:
     - [Airflow](https://airflow.incubator.apache.org/) by Apache
     - [Azkaban](https://azkaban.github.io/)
     - [Beam](https://beam.apache.org/) by Apache
-    - [dbt (data build tool)](https://www.getdbt.com/)
+    - [dbt (data build tool)](https://www.getdbt.com/) by Fishtown Analytics
     - [embulk](https://github.com/embulk/embulk) 
     - [singer](https://www.singer.io/) by Stitch
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
