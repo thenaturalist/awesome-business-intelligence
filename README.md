@@ -103,6 +103,7 @@ ToC split by SaaS and OSS:
     - [Beam](https://beam.apache.org/) by Apache
     - [dbt (data build tool)](https://www.getdbt.com/) by Fishtown Analytics
     - [embulk](https://github.com/embulk/embulk) 
+    - [Mara](https://github.com/mara/data-integration)
     - [singer](https://www.singer.io/) by Stitch
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
     
