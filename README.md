@@ -1,32 +1,27 @@
 # Awesome Business Intelligence
 A curated list of awesome tools to interact with data.  
-ToC split by SaaS and OSS:  
-- Slack Integration
-- SQL Client
-- Data Viz + Reporting
-- ETL & Data Modeling
-- Data Platforms
-- Storage
-- Knowledge Management  
+ToC split by SaaS and OSS (Open Source Software):  
+1. [Slack Integration](#1-slack-integration)
+2. [SQL Client](#2-sql-client)
+3. [Data Visualization](#3-data-visualization)
+4. [Data Integration](#4-data-integration)
+5. [Data Modeling](#5-data-modeling)
+6. [ETL Workflow Manager](#6-etl-workflow-manager)
+7. [Data Platforms](#7-data-platforms)
+8. [Storage](#8-storage)
+9. [Knowledge Management](#9-knowledge-management) 
   <br>
   <br>
-- **Slack Integrations**
-  - SaaS
+  
+- #### 1. Slack Integration
+  - **SaaS**
     - [Kiwi](https://www.kiwimydata.com/)
     - [statsbot](https://statsbot.co/)
 
 
-- **SQL Client**
-  - Open Source
-    - [DBeaver](https://dbeaver.jkiss.org/)
-    - [Franchise](https://franchise.cloud/)
-    - [OmniDB](https://omnidb.org/index.php/en/)
-    - [Sqlelectron](https://sqlectron.github.io/)
-    - [SQL Tabs](https://www.sqltabs.com/)
-    - [SQuirreL SQL](http://www.squirrelsql.org/)
-    
-    
-  - SaaS
+- #### 2. SQL Client    
+  - **SaaS**
+    - [DataGrip](https://www.jetbrains.com/datagrip/) by JetBrains
     - [JackDB](https://www.jackdb.com/)
     - [Numeracy](https://numeracy.co/)
     - [POPSQL](https://popsql.io/)
@@ -36,9 +31,17 @@ ToC split by SaaS and OSS:
     - [Tableplus](https://tableplus.io/)
     - [TeamSQL](https://teamsql.io/)
 
+  - **OSS**
+    - [DBeaver](https://dbeaver.jkiss.org/)
+    - [Franchise](https://franchise.cloud/)
+    - [OmniDB](https://omnidb.org/index.php/en/)
+    - [Sqlelectron](https://sqlectron.github.io/)
+    - [SQL Tabs](https://www.sqltabs.com/)
+    - [SQuirreL SQL](http://www.squirrelsql.org/)
 
-- **Data Viz + Reporting**
-  - SaaS  
+
+- #### 3. Data Visualization
+  - **SaaS**  
     - Model approach:  
       - [Looker](https://looker.com/)  
       - [Numetric](https://www.numetric.com/)
@@ -71,7 +74,7 @@ ToC split by SaaS and OSS:
       - [Vizbee](https://vizbee.io/)
 
 
-  - Open Source  
+  - **OSS**
     - [blazer](https://github.com/ankane/blazer) by Instacart
     - [dashing](http://dashing.io/)
     - [Metabase](http://www.metabase.com/)  
@@ -79,42 +82,51 @@ ToC split by SaaS and OSS:
     - [Redash](https://github.com/getredash/redash)  
     - [Superset](https://github.com/airbnb/superset)  
     - [Zeppelin](https://zeppelin.apache.org/)  
-  
-  
-- **ETL + Data Modeling**
-  - SaaS
+
+- #### 4. Data Integration
+  - **SaaS**
     - [Alooma](https://www.alooma.com/)
     - [Blendo](https://www.blendo.co/)
-    - [Dataflow](https://cloud.google.com/dataflow/) by Google Cloud
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
-    - [Glue](https://aws.amazon.com/de/glue/) by AWS
-    - [Matillion](https://www.matillion.com/)
-    - [Sinter](https://www.sinterdata.com/) by Fishtown Analytics
     - [Snaplogic](https://www.snaplogic.com/)
     - [Stitch](https://www.stitchdata.com/)
-    - [Trifacta](https://www.trifacta.com/)
     - [Xplenty](https://www.xplenty.com/)
-    
 
-  - Open Source
-    - [Airflow](https://airflow.incubator.apache.org/) by Apache
-    - [Azkaban](https://azkaban.github.io/)
+  - **OSS**
+    - [singer](https://www.singer.io/) by Stitch
+
+  
+- #### 5. Data Modeling
+  - **SaaS**
+    - [Dataflow](https://cloud.google.com/dataflow/) by Google Cloud
+    - [Glue](https://aws.amazon.com/de/glue/) by AWS
+    - [Matillion](https://www.matillion.com/)
+    - [Trifacta](https://www.trifacta.com/)
+
+  - **OSS**
     - [Beam](https://beam.apache.org/) by Apache
     - [dbt (data build tool)](https://www.getdbt.com/) by Fishtown Analytics
     - [embulk](https://github.com/embulk/embulk) 
     - [Mara](https://github.com/mara/data-integration)
-    - [singer](https://www.singer.io/) by Stitch
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
-    
 
 
-- **Data Platforms**
-  - SaaS
+- #### 6. ETL Workflow Manager
+  - **SaaS**
+    - [Sinter](https://www.sinterdata.com/) by Fishtown Analytics
+
+  - **OSS**
+    - [Airflow](https://airflow.incubator.apache.org/) by Apache
+    - [Azkaban](https://azkaban.github.io/)
+
+
+- ### 7. Data Platforms
+  - **SaaS**
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
     
-  - Open Source
+  - **OSS**
     - [Bouquet](https://openbouquet.io/)
     - [ELK Stack](https://www.elastic.co/products)
       - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
@@ -128,8 +140,8 @@ ToC split by SaaS and OSS:
       - [Weka](https://community.hds.com/docs/DOC-1009857)  
   
   
-- **Storage**
-  - SaaS
+- ### 8. Storage
+  - **SaaS**
     - [BigQuery](https://cloud.google.com/bigquery/) by Google  
     - [Data Virtuality](http://datavirtuality.com/)
     - [Exasol](http://www.exasol.com/)
@@ -138,19 +150,18 @@ ToC split by SaaS and OSS:
     - [Snowflake](https://www.snowflake.net/)
     - [Treasure Data](https://www.treasuredata.com/)
     
-  - Open Source
+  - **OSS**
     - [Apache HAWQ](https://hawq.incubator.apache.org/)
     - [MySQL](https://www.mysql.com)
     - [PipelineDB](https://www.pipelinedb.com/)
     - [PostgreSQL](https://www.postgresql.org/)
     
 
-- **Knowledge Management**
-  - SaaS  
+- ### 9. Knowledge Management
+  - **SaaS**
     - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian  
-    
-    
-  - Open Source  
+
+  - **OSS**  
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb  
     - [openKB](https://github.com/mrvautin/openKB)
 
