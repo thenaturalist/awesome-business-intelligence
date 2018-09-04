@@ -9,7 +9,8 @@ ToC split by SaaS and OSS (Open Source Software):
 6. [ETL Workflow Manager](#6-etl-workflow-manager)
 7. [Data Platforms](#7-data-platforms)
 8. [Storage](#8-storage)
-9. [Knowledge Management](#9-knowledge-management) 
+9. [Knowledge Management](#9-knowledge-management)   
+10. [Data Model Visualization](#10-data-model-visualization)
   <br>
   <br>
   
@@ -165,6 +166,9 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb  
     - [openKB](https://github.com/mrvautin/openKB)
 
+- ### 10. Data Model Visualization
+  - **OSS**
+    -  [dbdiagram](https://dbdiagram.io/) by holistics.io
 
 
 
