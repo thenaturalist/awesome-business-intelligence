@@ -11,8 +11,6 @@ ToC split by SaaS and OSS (Open Source Software):
 8. [Storage](#8-storage)
 9. [Knowledge Management](#9-knowledge-management)   
 10. [Data Model Visualization](#10-data-model-visualization)
-  <br>
-  <br>
   
 - #### 1. Slack Integration
   - **SaaS**
@@ -167,8 +165,5 @@ ToC split by SaaS and OSS (Open Source Software):
     - [openKB](https://github.com/mrvautin/openKB)
 
 - ### 10. Data Model Visualization
-  - **OSS**
+  - **Free SaaS**
     -  [dbdiagram](https://dbdiagram.io/) by holistics.io
-
-
-
