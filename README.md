@@ -123,7 +123,9 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 7. Data Platforms
   - **SaaS**
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
+    - [Fine BI](http://www.finebi.com) - Chinese only 
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
+    - [Quick BI](https://www.alibabacloud.com/de/product/quickbi) by Alibaba
     
   - **OSS**
     - [Bouquet](https://openbouquet.io/)
