@@ -119,6 +119,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **OSS**
     - [Airflow](https://airflow.incubator.apache.org/) by Apache
     - [Azkaban](https://azkaban.github.io/)
+    - [Luigi](https://github.com/spotify/luigi) by Spotify
 
 
 - ### 7. Data Platforms
