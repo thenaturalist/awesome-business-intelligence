@@ -15,6 +15,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - #### 1. Slack Integration
   - **SaaS**
     - [Kiwi](https://www.kiwimydata.com/)
+    - [PushMetrics](http://www.pushmetrics.io)
     - [statsbot](https://statsbot.co/)
 
 
