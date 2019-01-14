@@ -76,7 +76,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [blazer](https://github.com/ankane/blazer) by Instacart
-    - [dashing](http://dashing.io/)
+    - [Smashing](https://smashing.github.io/)
     - [Metabase](http://www.metabase.com/)  
     - [just-dashboard](https://kantord.github.io/just-dashboard/)  
     - [Redash](https://github.com/getredash/redash)  
