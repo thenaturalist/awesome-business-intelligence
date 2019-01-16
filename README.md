@@ -148,7 +148,8 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [BigQuery](https://cloud.google.com/bigquery/) by Google  
     - [Data Virtuality](http://datavirtuality.com/)
-    - [Exasol](http://www.exasol.com/)
+    - [Exasol](http://www.exasol.com/)  
+    - [MemSQL](https://www.memsql.com)  
     - [Panoply](https://panoply.io/)
     - [Redshift](https://aws.amazon.com/de/redshift/)
     - [Snowflake](https://www.snowflake.net/)
