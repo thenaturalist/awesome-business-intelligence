@@ -6,7 +6,7 @@ ToC split by SaaS and OSS (Open Source Software):
 3. [Data Visualization](#3-data-visualization)
 4. [Data Integration](#4-data-integration)
 5. [Data Modeling](#5-data-modeling)
-6. [ETL Workflow Manager](#6-etl-workflow-manager)
+6. [ETL Orchestration](#6-etl-workflow-manager)
 7. [Data Platforms](#7-data-platforms)
 8. [Storage](#8-storage)
 9. [Knowledge Management](#9-knowledge-management)   
@@ -113,7 +113,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
 
 
-- #### 6. ETL Workflow Manager
+- #### 6. ETL Orchestration
   - **SaaS**
     - [Sinter](https://www.sinterdata.com/) by Fishtown Analytics
 
