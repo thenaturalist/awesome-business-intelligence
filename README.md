@@ -1,6 +1,6 @@
-# Awesome Business Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
-A curated list of awesome tools to interact with data.  
-ToC split by SaaS and OSS (Open Source Software):  
+# Awesome Business Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome tools to interact with data.
+ToC split by SaaS and OSS (Open Source Software):
 1. [Slack Integration](#1-slack-integration)
 2. [SQL Client](#2-sql-client)
 3. [Data Visualization](#3-data-visualization)
@@ -9,9 +9,9 @@ ToC split by SaaS and OSS (Open Source Software):
 6. [ETL Orchestration](#6-etl-workflow-manager)
 7. [Data Platforms](#7-data-platforms)
 8. [Storage](#8-storage)
-9. [Knowledge Management](#9-knowledge-management)   
+9. [Knowledge Management](#9-knowledge-management)
 10. [Data Model Visualization](#10-data-model-visualization)
-  
+
 - #### 1. Slack Integration
   - **SaaS**
     - [Kiwi](https://www.kiwimydata.com/)
@@ -19,7 +19,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [statsbot](https://statsbot.co/)
 
 
-- #### 2. SQL Client    
+- #### 2. SQL Client
   - **SaaS**
     - [DataGrip](https://www.jetbrains.com/datagrip/) by JetBrains
     - [JackDB](https://www.jackdb.com/)
@@ -41,25 +41,25 @@ ToC split by SaaS and OSS (Open Source Software):
 
 
 - #### 3. Data Visualization
-  - **SaaS**  
-    - Model approach:  
-      - [Looker](https://looker.com/)  
+  - **SaaS**
+    - Model approach:
+      - [Looker](https://looker.com/)
       - [Numetric](https://www.numetric.com/)
-    
-    - SQL or other:  
-      - [Birst](https://www.birst.com/)  
+
+    - SQL or other:
+      - [Birst](https://www.birst.com/)
       - [Bouquet](https://openbouquet.io/)
       - [Chartio](https://chartio.com/)
       - [Cluvio](https://www.cluvio.com/)
       - [Contiamo](https://www.contiamo.com/)
       - [Datapine](https://www.datapine.com)
-      - [Data Studio](https://www.google.com/analytics/data-studio/) by Google  
+      - [Data Studio](https://www.google.com/analytics/data-studio/) by Google
       - [Domo](https://www.domo.com/)
       - [Focuus](http://www.focuus.com/)
       - [Holistics](https://www.holistics.io/)
       - [iCharts](https://icharts.net/)
       - [Meteorite](http://meteorite.bi/)
-      - [Mode Analytics](https://modeanalytics.com/)  
+      - [Mode Analytics](https://modeanalytics.com/)
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
       - [PowerBI](https://powerbi.microsoft.com) by Microsoft
@@ -68,7 +68,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Slemma](https://slemma.com/)
       - [SQL Server Reporting Services](https://docs.microsoft.com/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports) by Microsoft
       - [Tableau](https://www.tableau.com)
-      - [Quicksight](https://quicksight.aws/) by Amazon  
+      - [Quicksight](https://quicksight.aws/) by Amazon
       - [QlikView](http://www.qlik.com/de-de/products/qlikview)
       - [Viur](https://www.viurdata.com/)
       - [Vizbee](https://vizbee.io/)
@@ -76,12 +76,12 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [blazer](https://github.com/ankane/blazer) by Instacart
-    - [Metabase](http://www.metabase.com/)  
-    - [just-dashboard](https://kantord.github.io/just-dashboard/)  
+    - [Metabase](http://www.metabase.com/)
+    - [just-dashboard](https://kantord.github.io/just-dashboard/)
     - [Redash](https://github.com/getredash/redash)
-    - [Smashing](https://smashing.github.io/)  
-    - [Superset](https://github.com/airbnb/superset)  
-    - [Zeppelin](https://zeppelin.apache.org/)  
+    - [Smashing](https://smashing.github.io/)
+    - [Superset](https://github.com/airbnb/superset)
+    - [Zeppelin](https://zeppelin.apache.org/)
 
 - #### 4. Data Integration
   - **SaaS**
@@ -97,7 +97,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **OSS**
     - [singer](https://www.singer.io/) by Stitch
 
-  
+
 - #### 5. Data Modeling
   - **SaaS**
     - [Dataflow](https://cloud.google.com/dataflow/) by Google Cloud
@@ -108,8 +108,8 @@ ToC split by SaaS and OSS (Open Source Software):
   - **OSS**
     - [Beam](https://beam.apache.org/) by Apache
     - [dbt (data build tool)](https://www.getdbt.com/) by Fishtown Analytics
-    - [embulk](https://github.com/embulk/embulk) 
-    - [Mara](https://github.com/mara/data-integration)
+    - [embulk](https://github.com/embulk/embulk)
+    - [Mara](https://github.com/mara/data-integration) by Project A
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
 
 
@@ -126,10 +126,10 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 7. Data Platforms
   - **SaaS**
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
-    - [Fine BI](http://www.finebi.com) - Chinese only 
+    - [Fine BI](http://www.finebi.com) - Chinese only
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
     - [Quick BI](https://www.alibabacloud.com/de/product/quickbi) by Alibaba
-    
+
   - **OSS**
     - [Bouquet](https://openbouquet.io/)
     - [ELK Stack](https://www.elastic.co/products)
@@ -141,33 +141,33 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Mondrian OLAP](https://community.hds.com/docs/DOC-1009853)
       - [Kettle ETL](https://community.hds.com/docs/DOC-1009855)
       - [Pentaho Reporting](https://community.hds.com/docs/DOC-1009856)
-      - [Weka](https://community.hds.com/docs/DOC-1009857)  
-  
-  
+      - [Weka](https://community.hds.com/docs/DOC-1009857)
+
+
 - ### 8. Storage
   - **SaaS**
-    - [BigQuery](https://cloud.google.com/bigquery/) by Google  
+    - [BigQuery](https://cloud.google.com/bigquery/) by Google
     - [Data Virtuality](http://datavirtuality.com/)
-    - [Exasol](http://www.exasol.com/)  
-    - [MemSQL](https://www.memsql.com)  
+    - [Exasol](http://www.exasol.com/)
+    - [MemSQL](https://www.memsql.com)
     - [Panoply](https://panoply.io/)
     - [Redshift](https://aws.amazon.com/de/redshift/)
     - [Snowflake](https://www.snowflake.net/)
     - [Treasure Data](https://www.treasuredata.com/)
-    
+
   - **OSS**
     - [Apache HAWQ](https://hawq.incubator.apache.org/)
     - [MySQL](https://www.mysql.com)
     - [PipelineDB](https://www.pipelinedb.com/)
     - [PostgreSQL](https://www.postgresql.org/)
-    
+
 
 - ### 9. Knowledge Management
   - **SaaS**
-    - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian  
+    - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
 
-  - **OSS**  
-    - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb  
+  - **OSS**
+    - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb
     - [openKB](https://github.com/mrvautin/openKB)
 
 - ### 10. Data Model Visualization
