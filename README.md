@@ -127,6 +127,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
     - [Fine BI](http://www.finebi.com) - Chinese only
+    - [Keboola](https://www.keboola.com)
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
     - [Quick BI](https://www.alibabacloud.com/de/product/quickbi) by Alibaba
 
