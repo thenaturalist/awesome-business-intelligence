@@ -125,6 +125,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
 - ### 7. Data Platforms
   - **SaaS**
+    - [Ascend](https://www.ascend.io)
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
     - [Fine BI](http://www.finebi.com) - Chinese only
     - [Keboola](https://www.keboola.com)
