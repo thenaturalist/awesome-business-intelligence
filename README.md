@@ -164,7 +164,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [PipelineDB](https://www.pipelinedb.com/)
     - [PostgreSQL](https://www.postgresql.org/)
   
-  - ** SaaS onprem**
+  - **SaaS on-prem**
     - [Yellowbrick](https://yellowbrick.com)
 
 
