@@ -104,6 +104,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Glue](https://aws.amazon.com/de/glue/) by AWS
     - [Matillion](https://www.matillion.com/)
     - [Trifacta](https://www.trifacta.com/)
+    - [rockset](https://rockset.com)
 
   - **OSS**
     - [Beam](https://beam.apache.org/) by Apache
@@ -162,6 +163,9 @@ ToC split by SaaS and OSS (Open Source Software):
     - [MySQL](https://www.mysql.com)
     - [PipelineDB](https://www.pipelinedb.com/)
     - [PostgreSQL](https://www.postgresql.org/)
+  
+  - ** SaaS onprem**
+    - [Yellowbrick](https://yellowbrick.com)
 
 
 - ### 9. Knowledge Management
