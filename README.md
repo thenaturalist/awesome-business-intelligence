@@ -71,7 +71,6 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Quicksight](https://quicksight.aws/) by Amazon
       - [QlikView](http://www.qlik.com/de-de/products/qlikview)
       - [Viur](https://www.viurdata.com/)
-      - [Vizbee](https://vizbee.io/)
 
 
   - **OSS**
