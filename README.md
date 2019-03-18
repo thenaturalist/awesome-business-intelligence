@@ -87,6 +87,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Alooma](https://www.alooma.com/)
     - [Blendo](https://www.blendo.co/)
     - [Celigo Integrator](https://www.celigo.com/ipaas-integration-platform/)
+    - [Datacoral](https://datacoral.com)
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
     - [Snaplogic](https://www.snaplogic.com/)
