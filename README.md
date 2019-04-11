@@ -14,6 +14,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
 - #### 1. Monitoring and Alerting
   - **SaaS**
+    - [intermix](https://www.intermix.io)
     - [Kiwi](https://www.kiwimydata.com/)
     - [PushMetrics](http://www.pushmetrics.io)
     - [Revere](https://revere.ai)
