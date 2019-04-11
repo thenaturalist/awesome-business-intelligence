@@ -1,22 +1,22 @@
 # Awesome Business Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome tools to interact with data.
 ToC split by SaaS and OSS (Open Source Software):
-1. [Slack Integration](#1-slack-integration)
+1. [Monitoring & Alerting](#1-monitoring-and-alerting)
 2. [SQL Client](#2-sql-client)
 3. [Data Visualization](#3-data-visualization)
 4. [Data Integration](#4-data-integration)
 5. [Data Modeling](#5-data-modeling)
-6. [ETL Orchestration](#6-etl-workflow-manager)
+6. [ETL Orchestration](#6-etl-orchestration)
 7. [Data Platforms](#7-data-platforms)
 8. [Storage](#8-storage)
 9. [Knowledge Management](#9-knowledge-management)
 10. [Data Model Visualization](#10-data-model-visualization)
 
-- #### 1. Slack Integration
+- #### 1. Monitoring and Alerting
   - **SaaS**
     - [Kiwi](https://www.kiwimydata.com/)
     - [PushMetrics](http://www.pushmetrics.io)
-    - [statsbot](https://statsbot.co/)
+    - [Revere](https://revere.ai)
 
 
 - #### 2. SQL Client
@@ -131,6 +131,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Fine BI](http://www.finebi.com) - Chinese only
     - [Keboola](https://www.keboola.com)
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
+    - [statsbot](https://statsbot.co/)
     - [Quick BI](https://www.alibabacloud.com/de/product/quickbi) by Alibaba
 
   - **OSS**
