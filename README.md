@@ -117,7 +117,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
 - #### 6. ETL Orchestration
   - **SaaS**
-    - [Sinter](https://www.sinterdata.com/) by Fishtown Analytics
+    - [dbt Cloud](https://cloud.getdbt.com/) by Fishtown Analytics
 
   - **OSS**
     - [Airflow](https://airflow.incubator.apache.org/) by Apache
