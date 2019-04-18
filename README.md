@@ -64,6 +64,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
       - [PowerBI](https://powerbi.microsoft.com) by Microsoft
+      - [SeekTable](https://www.seektable.com)
       - [Silota](http://www.silota.com)
       - [Sisense](https://www.sisense.com/)
       - [Slemma](https://slemma.com/)
