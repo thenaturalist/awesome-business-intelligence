@@ -174,6 +174,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 9. Knowledge Management
   - **SaaS**
     - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
+    - [Guru](https://www.getguru.com/) by Guru
 
   - **OSS**
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb
