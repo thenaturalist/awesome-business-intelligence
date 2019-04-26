@@ -23,6 +23,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - #### 2. SQL Client
   - **SaaS**
     - [DataGrip](https://www.jetbrains.com/datagrip/) by JetBrains
+    - [DbVisualizer](https://www.dbvis.com/)
     - [JackDB](https://www.jackdb.com/)
     - [Numeracy](https://numeracy.co/)
     - [POPSQL](https://popsql.io/)
@@ -48,6 +49,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Numetric](https://www.numetric.com/)
 
     - SQL or other:
+      - [Amplitude](https://amplitude.com/)
       - [Birst](https://www.birst.com/)
       - [Bouquet](https://openbouquet.io/)
       - [Chartio](https://chartio.com/)
@@ -91,12 +93,14 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Datacoral](https://datacoral.com)
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
+    - [Segment](https://segment.com/)
     - [Snaplogic](https://www.snaplogic.com/)
     - [Stitch](https://www.stitchdata.com/)
     - [Xplenty](https://www.xplenty.com/)
 
   - **OSS**
     - [singer](https://www.singer.io/) by Stitch
+    - [Snowplow Analytics](https://snowplowanalytics.com/)
 
 
 - #### 5. Data Modeling
@@ -174,6 +178,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 9. Knowledge Management
   - **SaaS**
     - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
+    - [Notion](https://www.notion.so/)
 
   - **OSS**
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb
