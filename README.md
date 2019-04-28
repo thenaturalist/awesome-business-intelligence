@@ -11,6 +11,7 @@ ToC split by SaaS and OSS (Open Source Software):
 8. [Storage](#8-storage)
 9. [Knowledge Management](#9-knowledge-management)
 10. [Data Model Visualization](#10-data-model-visualization)
+11. [Data Discovery](#11-data-discovery)
 
 - #### 1. Monitoring and Alerting
   - **SaaS**
@@ -166,7 +167,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [MySQL](https://www.mysql.com)
     - [PipelineDB](https://www.pipelinedb.com/)
     - [PostgreSQL](https://www.postgresql.org/)
-  
+
   - **SaaS on-prem**
     - [Yellowbrick](https://yellowbrick.com)
 
@@ -182,3 +183,10 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 10. Data Model Visualization
   - **Free SaaS**
     -  [dbdiagram](https://dbdiagram.io/) by holistics.io
+
+- ### 11. Data discovery
+  - **SaaS**
+    - [Alation](https://alation.com/)
+
+  - **OSS**
+    - [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) by Lyft
