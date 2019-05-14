@@ -10,7 +10,7 @@ ToC split by SaaS and OSS (Open Source Software):
 7. [Data Platforms](#7-data-platforms)
 8. [Storage](#8-storage)
 9. [Knowledge Management](#9-knowledge-management)
-10. [Data Model Visualization](#10-data-model-visualization)
+10. [Database Modeler](#10-database-modeler)
 11. [Data Discovery](#11-data-discovery)
 
 - #### 1. Monitoring and Alerting
@@ -189,7 +189,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [dbdiagram](https://dbdiagram.io/) by holistics.io
     - [SqlDBM](https://sqldbm.com/Home/)
 
-- ### 11. Data discovery
+- ### 11. Data Discovery
   - **SaaS**
     - [Alation](https://alation.com/)
 
