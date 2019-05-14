@@ -66,6 +66,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Periscope](https://www.periscopedata.com/)
       - [PowerBI](https://powerbi.microsoft.com) by Microsoft
       - [SeekTable](https://www.seektable.com)
+      - [ShareInsights](https://accelerite.com/products/shareinsights/) by accelerite
       - [Silota](http://www.silota.com)
       - [Sisense](https://www.sisense.com/)
       - [Slemma](https://slemma.com/)
@@ -145,6 +146,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Logstash](https://www.elastic.co/de/products/logstash)
       - [Kibana](https://www.elastic.co/de/products/kibana)
     - [Meltano](https://gitlab.com/meltano/meltano) by GitLab
+    - [Metatron](https://metatron.app)
     - [Pentaho Community Projects](https://community.hds.com/community/products-and-solutions/pentaho)
       - [Mondrian OLAP](https://community.hds.com/docs/DOC-1009853)
       - [Kettle ETL](https://community.hds.com/docs/DOC-1009855)
@@ -182,9 +184,10 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb
     - [openKB](https://github.com/mrvautin/openKB)
 
-- ### 10. Data Model Visualization
+- ### 10. Database Modeler
   - **Free SaaS**
-    -  [dbdiagram](https://dbdiagram.io/) by holistics.io
+    - [dbdiagram](https://dbdiagram.io/) by holistics.io
+    - [SqlDBM](https://sqldbm.com/Home/)
 
 - ### 11. Data discovery
   - **SaaS**
