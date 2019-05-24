@@ -24,6 +24,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - #### 2. SQL Client
   - **SaaS**
     - [DataGrip](https://www.jetbrains.com/datagrip/) by JetBrains
+    - [DataRow](https://datarow.com) for AWS Redshift
     - [JackDB](https://www.jackdb.com/)
     - [Numeracy](https://numeracy.co/)
     - [POPSQL](https://popsql.io/)
@@ -31,7 +32,6 @@ ToC split by SaaS and OSS (Open Source Software):
     - [RazorSQL](https://razorsql.com/index.html)
     - [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms) by Microsoft
     - [Tableplus](https://tableplus.io/)
-    - [TeamSQL](https://teamsql.io/)
 
   - **OSS**
     - [DBeaver](https://dbeaver.jkiss.org/)
@@ -59,7 +59,6 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Domo](https://www.domo.com/)
       - [Focuus](http://www.focuus.com/)
       - [Holistics](https://www.holistics.io/)
-      - [iCharts](https://icharts.net/)
       - [Meteorite](http://meteorite.bi/)
       - [Mode Analytics](https://modeanalytics.com/)
       - [Pentaho](https://www.pentaho.com)
