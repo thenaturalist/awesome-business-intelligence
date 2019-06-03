@@ -93,6 +93,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Datacoral](https://datacoral.com)
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
+    - [Hevo](https://hevodata.com)
     - [Snaplogic](https://www.snaplogic.com/)
     - [Stitch](https://www.stitchdata.com/)
     - [Xplenty](https://www.xplenty.com/)
@@ -104,6 +105,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - #### 5. Data Modeling
   - **SaaS**
     - [Dataflow](https://cloud.google.com/dataflow/) by Google Cloud
+    - [Dataform](https://dataform.co)
     - [Glue](https://aws.amazon.com/de/glue/) by AWS
     - [Matillion](https://www.matillion.com/)
     - [Trifacta](https://www.trifacta.com/)
@@ -125,6 +127,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Airflow](https://airflow.incubator.apache.org/) by Apache
     - [Azkaban](https://azkaban.github.io/)
     - [Luigi](https://github.com/spotify/luigi) by Spotify
+    - [Pinball](https://github.com/pinterest/pinball) by Pinterest
     - [Prefect](https://www.prefect.io/)
 
 
