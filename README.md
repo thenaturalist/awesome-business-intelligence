@@ -139,6 +139,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Keboola](https://www.keboola.com)
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
     - [statsbot](https://statsbot.co/)
+    - [Qubole](https://www.qubole.com/)
     - [Quick BI](https://www.alibabacloud.com/de/product/quickbi) by Alibaba
 
   - **OSS**
