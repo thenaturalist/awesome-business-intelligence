@@ -25,6 +25,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [DataGrip](https://www.jetbrains.com/datagrip/) by JetBrains
     - [DataRow](https://datarow.com) for AWS Redshift
+    - [DbVisualizer](https://www.dbvis.com)
     - [JackDB](https://www.jackdb.com/)
     - [Numeracy](https://numeracy.co/)
     - [POPSQL](https://popsql.io/)
@@ -50,7 +51,6 @@ ToC split by SaaS and OSS (Open Source Software):
 
     - SQL or other:
       - [Birst](https://www.birst.com/)
-      - [Bouquet](https://openbouquet.io/)
       - [Chartio](https://chartio.com/)
       - [Cluvio](https://www.cluvio.com/)
       - [Contiamo](https://www.contiamo.com/)
@@ -182,6 +182,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
     - [Guru](https://www.getguru.com/) by Guru
+    - [Notion](https://www.notion.so)
 
   - **OSS**
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb
