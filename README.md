@@ -200,6 +200,8 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 11. Data Discovery
   - **SaaS**
     - [Alation](https://alation.com/)
+    - [Collibra](https://www.collibra.com)
 
   - **OSS**
     - [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) by Lyft
+    - [Marquez](https://github.com/MarquezProject/marquez) by The We Company
