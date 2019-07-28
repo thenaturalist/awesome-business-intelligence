@@ -78,8 +78,9 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [blazer](https://github.com/ankane/blazer) by Instacart
-    - [Metabase](http://www.metabase.com/)
     - [just-dashboard](https://kantord.github.io/just-dashboard/)
+    - [Metabase](http://www.metabase.com/)
+    - [poli](https://github.com/shzlw/poli)
     - [Redash](https://github.com/getredash/redash)
     - [Smashing](https://smashing.github.io/)
     - [Superset](https://github.com/airbnb/superset)
@@ -143,6 +144,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Quick BI](https://www.alibabacloud.com/de/product/quickbi) by Alibaba
 
   - **OSS**
+    - [Ananas Analytics](https://ananasanalytics.com/)
     - [Bouquet](https://openbouquet.io/)
     - [ELK Stack](https://www.elastic.co/products)
       - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
