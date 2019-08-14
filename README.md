@@ -31,6 +31,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [POPSQL](https://popsql.io/)
     - [Postico](https://eggerapps.at/postico/)
     - [RazorSQL](https://razorsql.com/index.html)
+    - [Superquery](https://web.superquery.io) for Google BigQuery
     - [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms) by Microsoft
     - [Tableplus](https://tableplus.io/)
 
