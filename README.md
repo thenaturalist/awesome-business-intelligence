@@ -11,7 +11,7 @@ ToC split by SaaS and OSS (Open Source Software):
 8. [Storage](#8-storage)
 9. [Knowledge Management](#9-knowledge-management)
 10. [Database Modeler](#10-database-modeler)
-11. [Data Discovery](#11-data-discovery)
+11. [Data Discovery](#11-data-discovery-and-metadata)
 
 - #### 1. Monitoring and Alerting
   - **SaaS**
@@ -198,11 +198,13 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [SqlDBM](https://sqldbm.com/Home/)
 
-- ### 11. Data Discovery
+- ### 11. Data Discovery and Metadata
   - **SaaS**
     - [Alation](https://alation.com/)
     - [Collibra](https://www.collibra.com)
+    - [Data Catalog](https://cloud.google.com/data-catalog/) by Google
 
   - **OSS**
     - [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) by Lyft
     - [Marquez](https://github.com/MarquezProject/marquez) by The We Company
+    - [Metacat](https://github.com/Netflix/metacat) by Netflix
