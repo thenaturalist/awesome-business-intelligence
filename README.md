@@ -27,7 +27,6 @@ ToC split by SaaS and OSS (Open Source Software):
     - [DataRow](https://datarow.com) for AWS Redshift
     - [DbVisualizer](https://www.dbvis.com)
     - [JackDB](https://www.jackdb.com/)
-    - [Numeracy](https://numeracy.co/)
     - [POPSQL](https://popsql.io/)
     - [Postico](https://eggerapps.at/postico/)
     - [RazorSQL](https://razorsql.com/index.html)
