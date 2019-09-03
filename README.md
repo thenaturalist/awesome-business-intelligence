@@ -129,6 +129,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Azkaban](https://azkaban.github.io/)
     - [Luigi](https://github.com/spotify/luigi) by Spotify
     - [Pinball](https://github.com/pinterest/pinball) by Pinterest
+    - [Pipelinewise](https://github.com/transferwise/pipelinewise) by TransferWise
     - [Prefect](https://www.prefect.io/)
 
 
