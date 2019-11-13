@@ -163,6 +163,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 8. Storage
   - **SaaS**
     - [BigQuery](https://cloud.google.com/bigquery/) by Google
+    - [ClickHouse](https://clickhouse.yandex/) by Yandex
     - [Data Virtuality](http://datavirtuality.com/)
     - [Exasol](http://www.exasol.com/)
     - [MemSQL](https://www.memsql.com)
