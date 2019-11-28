@@ -95,6 +95,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
     - [Hevo](https://hevodata.com)
+    - [Keboola](https://keboola.com)
     - [Snaplogic](https://www.snaplogic.com/)
     - [Stitch](https://www.stitchdata.com/)
     - [Xplenty](https://www.xplenty.com/)
@@ -108,6 +109,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Dataflow](https://cloud.google.com/dataflow/) by Google Cloud
     - [Dataform](https://dataform.co)
     - [Glue](https://aws.amazon.com/de/glue/) by AWS
+    - [Keboola](https://keboola.com)
     - [Matillion](https://www.matillion.com/)
     - [Trifacta](https://www.trifacta.com/)
     - [rockset](https://rockset.com)
@@ -123,6 +125,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - #### 6. ETL Orchestration
   - **SaaS**
     - [dbt Cloud](https://cloud.getdbt.com/) by Fishtown Analytics
+    - [Keboola](https://keboola.com)
 
   - **OSS**
     - [Airflow](https://airflow.incubator.apache.org/) by Apache
