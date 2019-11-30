@@ -59,11 +59,11 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Domo](https://www.domo.com/)
       - [Focuus](http://www.focuus.com/)
       - [Holistics](https://www.holistics.io/)
-      - [Meteorite](http://meteorite.bi/)
       - [Mode Analytics](https://modeanalytics.com/)
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
       - [PowerBI](https://powerbi.microsoft.com) by Microsoft
+      - [Saiku Analytics](https://www.meteorite.bi/)
       - [SeekTable](https://www.seektable.com)
       - [ShareInsights](https://accelerite.com/products/shareinsights/) by accelerite
       - [Silota](http://www.silota.com)
