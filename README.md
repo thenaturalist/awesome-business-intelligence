@@ -46,6 +46,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - #### 3. Data Visualization
   - **SaaS**
     - Model approach:
+      - [Count] (https://count.co/)
       - [Looker](https://looker.com/)
       - [Numetric](https://www.numetric.com/)
 
