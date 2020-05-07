@@ -35,6 +35,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Tableplus](https://tableplus.io/)
 
   - **OSS**
+    - [Beekeeper Studio](https://www.beekeeperstudio.io)
     - [DBeaver](https://dbeaver.jkiss.org/)
     - [Franchise](https://franchise.cloud/)
     - [OmniDB](https://omnidb.org/index.php/en/)
