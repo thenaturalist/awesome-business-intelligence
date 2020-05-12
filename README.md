@@ -191,6 +191,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
     - [Guru](https://www.getguru.com/) by Guru
     - [Notion](https://www.notion.so)
+    - [Slab](https://slab.com/)
 
   - **OSS**
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb
