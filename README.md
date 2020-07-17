@@ -115,6 +115,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Matillion](https://www.matillion.com/)
     - [Trifacta](https://www.trifacta.com/)
     - [rockset](https://rockset.com)
+    - [WhereScape](https://www.wherescape.com/)
 
   - **OSS**
     - [Beam](https://beam.apache.org/) by Apache
