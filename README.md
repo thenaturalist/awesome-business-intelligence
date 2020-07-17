@@ -143,6 +143,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
     - [Fine BI](http://www.finebi.com) - Chinese only
     - [Keboola](https://www.keboola.com)
+    - [MicroStrategy](https://www.microstrategy.com/)
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
     - [statsbot](https://statsbot.co/)
     - [Qubole](https://www.qubole.com/)
