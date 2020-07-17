@@ -61,6 +61,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Domo](https://www.domo.com/)
       - [Focuus](http://www.focuus.com/)
       - [Holistics](https://www.holistics.io/)
+      - [Longview](https://insightsoftware.com/longview/)
       - [Mode Analytics](https://modeanalytics.com/)
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
