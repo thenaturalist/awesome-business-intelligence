@@ -24,7 +24,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - #### 2. SQL Client
   - **SaaS**
     - [DataGrip](https://www.jetbrains.com/datagrip/) by JetBrains
-    - [DataRow](https://datarow.com) for AWS Redshift
+    - [DataRow](https://www.datarow.com) for AWS Redshift
     - [DbVisualizer](https://www.dbvis.com)
     - [JackDB](https://www.jackdb.com/)
     - [POPSQL](https://popsql.io/)
