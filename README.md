@@ -169,6 +169,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
 - ### 8. Storage
   - **SaaS**
+    - [Aurora](https://aws.amazon.com/rds/aurora/) by AWS
     - [BigQuery](https://cloud.google.com/bigquery/) by Google
     - [ClickHouse](https://clickhouse.yandex/) by Yandex
     - [Data Virtuality](http://datavirtuality.com/)
