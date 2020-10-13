@@ -48,6 +48,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - Model approach:
       - [Count](https://count.co/)
+      - [Holistics](https://www.holistics.io/)
       - [Looker](https://looker.com/)
       - [Numetric](https://www.numetric.com/)
 
@@ -60,7 +61,6 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Data Studio](https://www.google.com/analytics/data-studio/) by Google
       - [Domo](https://www.domo.com/)
       - [Focuus](http://www.focuus.com/)
-      - [Holistics](https://www.holistics.io/)
       - [Mode Analytics](https://modeanalytics.com/)
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
