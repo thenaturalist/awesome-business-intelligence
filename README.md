@@ -200,6 +200,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 10. Database Modeler
   - **Free SaaS**
     - [dbdiagram](https://dbdiagram.io/) by holistics.io
+    - [Gleek.io](https://www.gleek.io)
 
   - **SaaS**
     - [SqlDBM](https://sqldbm.com/Home/)
