@@ -158,11 +158,11 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Kibana](https://www.elastic.co/de/products/kibana)
     - [Meltano](https://gitlab.com/meltano/meltano) by GitLab
     - [Metatron](https://metatron.app)
-    - [Pentaho Community Projects](https://community.hds.com/community/products-and-solutions/pentaho)
-      - [Mondrian OLAP](https://community.hds.com/docs/DOC-1009853)
-      - [Kettle ETL](https://community.hds.com/docs/DOC-1009855)
-      - [Pentaho Reporting](https://community.hds.com/docs/DOC-1009856)
-      - [Weka](https://community.hds.com/docs/DOC-1009857)
+    - [Pentaho Community Projects](https://community.hitachivantara.com/s/pentaho)
+      - [Mondrian OLAP](https://community.hitachivantara.com/s/article/mondrian)
+      - [Kettle ETL](https://community.hitachivantara.com/s/article/data-integration-kettle)
+      - [Pentaho Reporting](https://community.hitachivantara.com/s/article/pentaho-reporting)
+      - [Weka](https://community.hitachivantara.com/s/article/data-mining-weka)
 
 
 - ### 8. Storage
