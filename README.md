@@ -216,3 +216,8 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) by Lyft
     - [Marquez](https://github.com/MarquezProject/marquez) by The We Company
     - [Metacat](https://github.com/Netflix/metacat) by Netflix
+    
+- ### 12. Data Books
+  - **Free**
+    - [Analytics Setup Guidebook](https://https://www.holistics.io/books/setup-analytics/)
+    - [Chartio DataSchool](https://dataschool.com/)
