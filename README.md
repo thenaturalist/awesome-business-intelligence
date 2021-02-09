@@ -219,5 +219,5 @@ ToC split by SaaS and OSS (Open Source Software):
     
 - ### 12. Data Books
   - **Free**
-    - [Analytics Setup Guidebook](https://https://www.holistics.io/books/setup-analytics/)
+    - [The Analytics Setup Guidebook](https://https://www.holistics.io/books/setup-analytics/)
     - [Chartio DataSchool](https://dataschool.com/)
