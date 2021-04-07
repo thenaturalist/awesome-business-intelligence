@@ -112,6 +112,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Dataform](https://dataform.co)
     - [Glue](https://aws.amazon.com/de/glue/) by AWS
     - [Matillion](https://www.matillion.com/)
+    - [MODLR](https://modlr.co/)
     - [Trifacta](https://www.trifacta.com/)
     - [rockset](https://rockset.com)
 
@@ -141,13 +142,13 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [Ascend](https://www.ascend.io)
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
-    - [Datos Intelligence](https://www.datos-intelligence.com)
     - [Fine BI](http://www.finebi.com) - Chinese only
     - [Keboola](https://www.keboola.com)
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
     - [statsbot](https://statsbot.co/)
     - [Qubole](https://www.qubole.com/)
     - [Quick BI](https://www.alibabacloud.com/de/product/quickbi) by Alibaba
+    - [y42](https://www.y42.com)
 
   - **OSS**
     - [Ananas Analytics](https://ananasanalytics.com/)
@@ -158,6 +159,8 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Kibana](https://www.elastic.co/de/products/kibana)
     - [Meltano](https://gitlab.com/meltano/meltano) by GitLab
     - [Metatron](https://metatron.app)
+
+    - [Orchest](https://github.com/orchest/orchest)
     - [Pentaho Community Projects](https://community.hitachivantara.com/s/pentaho)
       - [Mondrian OLAP](https://community.hitachivantara.com/s/article/mondrian)
       - [Kettle ETL](https://community.hitachivantara.com/s/article/data-integration-kettle)
