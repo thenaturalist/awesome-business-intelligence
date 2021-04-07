@@ -112,6 +112,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Dataform](https://dataform.co)
     - [Glue](https://aws.amazon.com/de/glue/) by AWS
     - [Matillion](https://www.matillion.com/)
+    - [MODLR](https://modlr.co/)
     - [Trifacta](https://www.trifacta.com/)
     - [rockset](https://rockset.com)
 
