@@ -1,3 +1,4 @@
+
 # Awesome Business Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome tools to interact with data.
 ToC split by SaaS and OSS (Open Source Software):
@@ -42,6 +43,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Sqlelectron](https://sqlectron.github.io/)
     - [SQL Tabs](https://www.sqltabs.com/)
     - [SQuirreL SQL](http://www.squirrelsql.org/)
+    - [Sequel Ace](https://sequel-ace.com/)
 
 
 - #### 3. Data Visualization
@@ -51,6 +53,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Holistics](https://www.holistics.io/)
       - [Looker](https://looker.com/)
       - [Numetric](https://www.numetric.com/)
+      - [Knowi](https://www.knowi.com/)
 
     - SQL or other:
       - [Birst](https://www.birst.com/)
