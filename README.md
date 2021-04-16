@@ -1,3 +1,4 @@
+
 # Awesome Business Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome tools to interact with data.
 ToC split by SaaS and OSS (Open Source Software):
@@ -36,20 +37,24 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [Beekeeper Studio](https://www.beekeeperstudio.io)
+    - [Cloudbeaver](https://cloudbeaver.io)
     - [DBeaver](https://dbeaver.jkiss.org/)
     - [Franchise](https://franchise.cloud/)
     - [OmniDB](https://omnidb.org/index.php/en/)
     - [Sqlelectron](https://sqlectron.github.io/)
     - [SQL Tabs](https://www.sqltabs.com/)
     - [SQuirreL SQL](http://www.squirrelsql.org/)
+    - [Sequel Ace](https://sequel-ace.com/)
 
 
 - #### 3. Data Visualization
   - **SaaS**
     - Model approach:
       - [Count](https://count.co/)
+      - [Holistics](https://www.holistics.io/)
       - [Looker](https://looker.com/)
       - [Numetric](https://www.numetric.com/)
+      - [Knowi](https://www.knowi.com/)
 
     - SQL or other:
       - [Birst](https://www.birst.com/)
@@ -61,7 +66,6 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Domo](https://www.domo.com/)
       - [Focuus](http://www.focuus.com/)
       - [Holistics](https://www.holistics.io/)
-      - [Longview](https://insightsoftware.com/longview/)
       - [Mode Analytics](https://modeanalytics.com/)
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
@@ -113,6 +117,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Dataform](https://dataform.co)
     - [Glue](https://aws.amazon.com/de/glue/) by AWS
     - [Matillion](https://www.matillion.com/)
+    - [MODLR](https://modlr.co/)
     - [Trifacta](https://www.trifacta.com/)
     - [rockset](https://rockset.com)
     - [WhereScape](https://www.wherescape.com/)
@@ -123,6 +128,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [embulk](https://github.com/embulk/embulk)
     - [Mara](https://github.com/mara/data-integration) by Project A
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
+    - [Zillion](https://totalhack.github.io/zillion/)
 
 
 - #### 6. ETL Orchestration
@@ -150,6 +156,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [statsbot](https://statsbot.co/)
     - [Qubole](https://www.qubole.com/)
     - [Quick BI](https://www.alibabacloud.com/de/product/quickbi) by Alibaba
+    - [y42](https://www.y42.com)
 
   - **OSS**
     - [Ananas Analytics](https://ananasanalytics.com/)
@@ -160,11 +167,13 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Kibana](https://www.elastic.co/de/products/kibana)
     - [Meltano](https://gitlab.com/meltano/meltano) by GitLab
     - [Metatron](https://metatron.app)
-    - [Pentaho Community Projects](https://community.hds.com/community/products-and-solutions/pentaho)
-      - [Mondrian OLAP](https://community.hds.com/docs/DOC-1009853)
-      - [Kettle ETL](https://community.hds.com/docs/DOC-1009855)
-      - [Pentaho Reporting](https://community.hds.com/docs/DOC-1009856)
-      - [Weka](https://community.hds.com/docs/DOC-1009857)
+
+    - [Orchest](https://github.com/orchest/orchest)
+    - [Pentaho Community Projects](https://community.hitachivantara.com/s/pentaho)
+      - [Mondrian OLAP](https://community.hitachivantara.com/s/article/mondrian)
+      - [Kettle ETL](https://community.hitachivantara.com/s/article/data-integration-kettle)
+      - [Pentaho Reporting](https://community.hitachivantara.com/s/article/pentaho-reporting)
+      - [Weka](https://community.hitachivantara.com/s/article/data-mining-weka)
 
 
 - ### 8. Storage
@@ -174,6 +183,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [ClickHouse](https://clickhouse.yandex/) by Yandex
     - [Data Virtuality](http://datavirtuality.com/)
     - [Exasol](http://www.exasol.com/)
+    - [Firebolt](http://firebolt.io/)
     - [MemSQL](https://www.memsql.com)
     - [Panoply](https://panoply.io/)
     - [Redshift](https://aws.amazon.com/de/redshift/)
@@ -193,8 +203,10 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 9. Knowledge Management
   - **SaaS**
     - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
+    - [dbdocs.io](https://dbdocs.io) by Holistics.io
     - [Guru](https://www.getguru.com/) by Guru
     - [Notion](https://www.notion.so)
+    - [Slab](https://slab.com/)
 
   - **OSS**
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb
@@ -203,6 +215,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 10. Database Modeler
   - **Free SaaS**
     - [dbdiagram](https://dbdiagram.io/) by holistics.io
+    - [Gleek.io](https://www.gleek.io)
 
   - **SaaS**
     - [SqlDBM](https://sqldbm.com/Home/)
