@@ -25,7 +25,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - #### 2. SQL Client
   - **SaaS**
     - [DataGrip](https://www.jetbrains.com/datagrip/) by JetBrains
-    - [DataRow](https://datarow.com) for AWS Redshift
+    - [DataRow](https://www.datarow.com) for AWS Redshift
     - [DbVisualizer](https://www.dbvis.com)
     - [JackDB](https://www.jackdb.com/)
     - [POPSQL](https://popsql.io/)
@@ -65,6 +65,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Data Studio](https://www.google.com/analytics/data-studio/) by Google
       - [Domo](https://www.domo.com/)
       - [Focuus](http://www.focuus.com/)
+      - [Holistics](https://www.holistics.io/)
       - [Mode Analytics](https://modeanalytics.com/)
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
@@ -119,6 +120,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [MODLR](https://modlr.co/)
     - [Trifacta](https://www.trifacta.com/)
     - [rockset](https://rockset.com)
+    - [WhereScape](https://www.wherescape.com/)
 
   - **OSS**
     - [Beam](https://beam.apache.org/) by Apache
@@ -149,6 +151,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
     - [Fine BI](http://www.finebi.com) - Chinese only
     - [Keboola](https://www.keboola.com)
+    - [MicroStrategy](https://www.microstrategy.com/)
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
     - [statsbot](https://statsbot.co/)
     - [Qubole](https://www.qubole.com/)
@@ -175,6 +178,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
 - ### 8. Storage
   - **SaaS**
+    - [Aurora](https://aws.amazon.com/rds/aurora/) by AWS
     - [BigQuery](https://cloud.google.com/bigquery/) by Google
     - [ClickHouse](https://clickhouse.yandex/) by Yandex
     - [Data Virtuality](http://datavirtuality.com/)
