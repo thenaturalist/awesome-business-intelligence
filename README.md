@@ -126,6 +126,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [embulk](https://github.com/embulk/embulk)
     - [Mara](https://github.com/mara/data-integration) by Project A
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
+    - [Zillion](https://totalhack.github.io/zillion/)
 
 
 - #### 6. ETL Orchestration
