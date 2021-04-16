@@ -177,6 +177,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [ClickHouse](https://clickhouse.yandex/) by Yandex
     - [Data Virtuality](http://datavirtuality.com/)
     - [Exasol](http://www.exasol.com/)
+    - [Firebolt](http://firebolt.io/)
     - [MemSQL](https://www.memsql.com)
     - [Panoply](https://panoply.io/)
     - [Redshift](https://aws.amazon.com/de/redshift/)
