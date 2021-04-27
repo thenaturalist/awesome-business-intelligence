@@ -46,6 +46,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [SQL Tabs](https://www.sqltabs.com/)
     - [SQuirreL SQL](http://www.squirrelsql.org/)
     - [Sequel Ace](https://sequel-ace.com/)
+    - [Querybook](https://www.querybook.org) by Pinterest
 
 
 - #### 3. Data Visualization
