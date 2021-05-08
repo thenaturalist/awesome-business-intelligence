@@ -115,7 +115,9 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Xplenty](https://www.xplenty.com/)
 
   - **OSS**
+    - [airbyte](https://airbyte.io)
     - [singer](https://www.singer.io/) by Stitch
+
 
 
 - #### 5. Data Modeling
