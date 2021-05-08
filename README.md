@@ -35,6 +35,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Superquery](https://web.superquery.io) for Google BigQuery
     - [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms) by Microsoft
     - [Tableplus](https://tableplus.io/)
+    - [Query Me](https://query.me)
 
   - **OSS**
     - [Beekeeper Studio](https://www.beekeeperstudio.io)
