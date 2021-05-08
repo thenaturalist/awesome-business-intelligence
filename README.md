@@ -250,7 +250,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Segment](https://segment.com)
 
   - **OSS**
-    - [Rudderstack](https://rudderstack.com)
+    - [Rudderstack](https://rudderstack.com) - [![GitHub stars](https://img.shields.io/github/stars/rudderlabs/rudder-server.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/rudderlabs/rudder-server/stargazers/)
 
 
 - ### 14. Workflow Automation
