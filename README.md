@@ -8,11 +8,12 @@ ToC split by SaaS and OSS (Open Source Software):
 4. [Data Integration](#4-data-integration)
 5. [Data Modeling](#5-data-modeling)
 6. [ETL Orchestration](#6-etl-orchestration)
-7. [Data Platforms](#7-data-platforms)
-8. [Storage](#8-storage)
-9. [Knowledge Management](#9-knowledge-management)
-10. [Database Modeler](#10-database-modeler)
-11. [Data Discovery](#11-data-discovery-and-metadata)
+7. [Reverse-ETL](#7-reverse-etl)
+8. [Data Platforms](#8-data-platforms)
+9. [Storage](#9-storage)
+10. [Knowledge Management](#10-knowledge-management)
+11. [Database Modeler](#11-database-modeler)
+12. [Data Discovery](#12-data-discovery-and-metadata)
 
 - #### 1. Monitoring and Alerting
   - **SaaS**
@@ -132,7 +133,6 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
     - [Zillion](https://totalhack.github.io/zillion/)
 
-
 - #### 6. ETL Orchestration
   - **SaaS**
     - [Astronomer](https://www.astronomer.io/)
@@ -146,8 +146,13 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Pipelinewise](https://github.com/transferwise/pipelinewise) by TransferWise
     - [Prefect](https://www.prefect.io/)
 
+- #### 7. Reverse-ETL
+  - **SaaS**
+    - [Census](https://www.getcensus.com)
+    - [Hightouch](https://hightouch.io)
+    - [Polytomic](https://www.polytomic.com)
 
-- ### 7. Data Platforms
+- ### 8. Data Platforms
   - **SaaS**
     - [Ascend](https://www.ascend.io)
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
@@ -178,7 +183,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Weka](https://community.hitachivantara.com/s/article/data-mining-weka)
 
 
-- ### 8. Storage
+- ### 9. Storage
   - **SaaS**
     - [Aurora](https://aws.amazon.com/rds/aurora/) by AWS
     - [BigQuery](https://cloud.google.com/bigquery/) by Google
@@ -202,7 +207,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Yellowbrick](https://yellowbrick.com)
 
 
-- ### 9. Knowledge Management
+- ### 10. Knowledge Management
   - **SaaS**
     - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
     - [dbdocs.io](https://dbdocs.io) by Holistics.io
@@ -214,7 +219,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb
     - [openKB](https://github.com/mrvautin/openKB)
 
-- ### 10. Database Modeler
+- ### 11. Database Modeler
   - **Free SaaS**
     - [dbdiagram](https://dbdiagram.io/) by holistics.io
     - [Gleek.io](https://www.gleek.io)
@@ -222,7 +227,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [SqlDBM](https://sqldbm.com/Home/)
 
-- ### 11. Data Discovery and Metadata
+- ### 12. Data Discovery and Metadata
   - **SaaS**
     - [Alation](https://alation.com/)
     - [Collibra](https://www.collibra.com)
