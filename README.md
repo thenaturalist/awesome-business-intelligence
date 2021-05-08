@@ -14,6 +14,9 @@ ToC split by SaaS and OSS (Open Source Software):
 10. [Knowledge Management](#10-knowledge-management)
 11. [Database Modeler](#11-database-modeler)
 12. [Data Discovery](#12-data-discovery-and-metadata)
+13. [Customer Data Platforms](#13-customer-data-platforms)
+14. [Workflow Automation](#14-workflow-automation)
+15. [No Code Data Tools](#15-no-code-data-tools)
 
 - #### 1. Monitoring and Alerting
   - **SaaS**
@@ -238,3 +241,26 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) by Lyft
     - [Marquez](https://github.com/MarquezProject/marquez) by The We Company
     - [Metacat](https://github.com/Netflix/metacat) by Netflix
+
+- ### 13. Customer Data Platforms
+  - **SaaS**
+    - [mparticle](https://www.mparticle.com)
+    - [Segment](https://segment.com)
+
+  - **OSS**
+    - [Rudderstack](https://rudderstack.com)
+
+- ### 14. Workflow Automation
+  - **SaaS**
+    - [zapier](https://zapier.com)
+
+  - **OSS**
+    - [n8n](https://n8n.io)
+
+- ### 15. No Code Data Tools
+  - **SaaS**
+    - [retool](https://retool.com)
+
+  - **OSS**
+    - [appsmith](https://www.appsmith.com)
+
