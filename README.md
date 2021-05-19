@@ -165,6 +165,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Fine BI](http://www.finebi.com) - Chinese only
     - [Keboola](https://www.keboola.com)
     - [MicroStrategy](https://www.microstrategy.com/)
+    - [Mozart Data](https://www.mozartdata.com/)
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
     - [statsbot](https://statsbot.co/)
     - [Qubole](https://www.qubole.com/)
