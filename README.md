@@ -90,10 +90,11 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Viur](https://www.viurdata.com/)
 
 
-  - **OSS**
+  - **OSS**   
     - [blazer](https://github.com/ankane/blazer) by Instacart
     - [Insights](https://github.com/mariusandra/insights)
     - [just-dashboard](https://kantord.github.io/just-dashboard/)
+    - [Lightdash](https://www.lightdash.com/)
     - [Metabase](http://www.metabase.com/)
     - [poli](https://github.com/shzlw/poli)
     - [Redash](https://github.com/getredash/redash)
