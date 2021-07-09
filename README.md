@@ -17,6 +17,7 @@ ToC split by SaaS and OSS (Open Source Software):
 13. [Customer Data Platforms](#13-customer-data-platforms)
 14. [Workflow Automation](#14-workflow-automation)
 15. [No Code Data Tools](#15-no-code-data-tools)
+16. [Scheduling & Booking Tools](#16-scheduling-tools)
 
 - #### 1. Monitoring and Alerting
   - **SaaS**
@@ -268,4 +269,11 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [appsmith](https://www.appsmith.com)
+
+- ### 16. Scheduling Tools
+  - **Spurwing**
+    - [Spurwing Scheduling API](https://www.spurwing.io/)
+
+  - **Cronofy**
+    - [Cronofy Scheduling Tools](https://www.cronofy.com/)
 
