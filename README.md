@@ -247,6 +247,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) by Lyft
     - [Marquez](https://github.com/MarquezProject/marquez) by The We Company
     - [Metacat](https://github.com/Netflix/metacat) by Netflix
+    - [Elementary-lineage](https://github.com/elementary-data/elementary-lineage)
 
 - ### 13. Customer Data Platforms
   - **SaaS**
