@@ -146,6 +146,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 6. Data Discovery and Lineage
   - **SaaS**
     - [Alation](https://alation.com/)
+    - [Castor](https://www.castordoc.com/)
     - [Collibra](https://www.collibra.com)
     - [Data Catalog](https://cloud.google.com/data-catalog/) by Google
 
