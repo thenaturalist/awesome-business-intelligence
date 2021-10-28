@@ -7,16 +7,17 @@ ToC split by SaaS and OSS (Open Source Software):
 3. [Data Visualization](#3-data-visualization)
 4. [Data Integration](#4-data-integration)
 5. [Data Modeling](#5-data-modeling)
-6. [ETL Orchestration](#6-etl-orchestration)
-7. [Reverse-ETL](#7-reverse-etl)
-8. [Data Platforms](#8-data-platforms)
-9. [Storage](#9-storage)
-10. [Knowledge Management](#10-knowledge-management)
-11. [Database Modeler](#11-database-modeler)
-12. [Data Discovery](#12-data-discovery-and-metadata)
-13. [Customer Data Platforms](#13-customer-data-platforms)
-14. [Workflow Automation](#14-workflow-automation)
-15. [No Code Data Tools](#15-no-code-data-tools)
+6. [Data Discovery & Lineage](#6-data-discovery-and-lineage)
+7. [Data Observability](#7-data-observability)
+8. [ETL Orchestration](#8-etl-orchestration)
+9. [Reverse-ETL](#9-reverse-etl)
+10. [Data Platforms](#10-data-platforms)
+11. [Storage](#11-storage)
+12. [Knowledge Management](#12-knowledge-management)
+13. [Database Modeler](#13-database-modeler)
+14. [Customer Data Platforms](#14-customer-data-platforms)
+15. [Workflow Automation](#15-workflow-automation)
+16. [No Code Data Tools](#16-no-code-data-tools)
 
 - #### 1. Monitoring and Alerting
   - **SaaS**
@@ -142,7 +143,33 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
     - [Zillion](https://totalhack.github.io/zillion/)
 
-- #### 6. ETL Orchestration
+- ### 6. Data Discovery and Lineage
+  - **SaaS**
+    - [Alation](https://alation.com/)
+    - [Collibra](https://www.collibra.com)
+    - [Data Catalog](https://cloud.google.com/data-catalog/) by Google
+
+  - **OSS**
+    - [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) by Lyft
+    - [Marquez](https://github.com/MarquezProject/marquez) by The We Company
+    - [Metacat](https://github.com/Netflix/metacat) by Netflix
+
+
+- ### 7. Data Observability
+  - **SaaS**
+    - [acceldata](https://www.acceldata.io/home)
+    - [Bigeye](https://www.bigeye.com
+    - [databand](https://databand.ai)
+    - [datafold](https://www.datafold.com)
+    - [Metaplane](https://www.metaplane.dev)
+    - [Monte Carlo](https://www.montecarlodata.com)
+    - [soda](https://www.soda.io)
+
+  - **OSS**
+
+
+
+- #### 8. ETL Orchestration
   - **SaaS**
     - [Astronomer](https://www.astronomer.io/)
     - [dbt Cloud](https://cloud.getdbt.com/) by Fishtown Analytics
@@ -155,13 +182,14 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Pipelinewise](https://github.com/transferwise/pipelinewise) by TransferWise
     - [Prefect](https://www.prefect.io/)
 
-- #### 7. Reverse-ETL
+- #### 9. Reverse-ETL
   - **SaaS**
     - [Census](https://www.getcensus.com)
     - [Hightouch](https://hightouch.io)
     - [Polytomic](https://www.polytomic.com)
 
-- ### 8. Data Platforms
+
+- ### 10. Data Platforms
   - **SaaS**
     - [Ascend](https://www.ascend.io)
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
@@ -193,7 +221,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Weka](https://community.hitachivantara.com/s/article/data-mining-weka)
 
 
-- ### 9. Storage
+- ### 11. Storage
   - **SaaS**
     - [Aurora](https://aws.amazon.com/rds/aurora/) by AWS
     - [BigQuery](https://cloud.google.com/bigquery/) by Google
@@ -217,7 +245,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Yellowbrick](https://yellowbrick.com)
 
 
-- ### 10. Knowledge Management
+- ### 12. Knowledge Management
   - **SaaS**
     - [Confluence](https://www.atlassian.com/software/confluence) by Atlassian
     - [dbdocs.io](https://dbdocs.io) by Holistics.io
@@ -229,7 +257,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb
     - [openKB](https://github.com/mrvautin/openKB)
 
-- ### 11. Database Modeler
+- ### 13. Database Modeler
   - **Free SaaS**
     - [dbdiagram](https://dbdiagram.io/) by holistics.io
     - [Gleek.io](https://www.gleek.io)
@@ -237,18 +265,8 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [SqlDBM](https://sqldbm.com/Home/)
 
-- ### 12. Data Discovery and Metadata
-  - **SaaS**
-    - [Alation](https://alation.com/)
-    - [Collibra](https://www.collibra.com)
-    - [Data Catalog](https://cloud.google.com/data-catalog/) by Google
 
-  - **OSS**
-    - [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) by Lyft
-    - [Marquez](https://github.com/MarquezProject/marquez) by The We Company
-    - [Metacat](https://github.com/Netflix/metacat) by Netflix
-
-- ### 13. Customer Data Platforms
+- ### 14. Customer Data Platforms
   - **SaaS**
     - [mparticle](https://www.mparticle.com)
     - [Segment](https://segment.com)
@@ -257,17 +275,16 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Rudderstack](https://rudderstack.com)
 
 
-- ### 14. Workflow Automation
+- ### 15. Workflow Automation
   - **SaaS**
     - [zapier](https://zapier.com)
 
   - **OSS**
     - [n8n](https://n8n.io)
 
-- ### 15. No Code Data Tools
+- ### 16. No Code Data Tools
   - **SaaS**
     - [retool](https://retool.com)
 
   - **OSS**
     - [appsmith](https://www.appsmith.com)
-
