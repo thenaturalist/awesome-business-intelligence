@@ -151,6 +151,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [Amundsen](https://github.com/lyft/amundsenfrontendlibrary) by Lyft
+    - [elementary-lineage](https://github.com/elementary-data/elementary-lineage)
     - [Marquez](https://github.com/MarquezProject/marquez) by The We Company
     - [Metacat](https://github.com/Netflix/metacat) by Netflix
 
