@@ -119,8 +119,9 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Xplenty](https://www.xplenty.com/)
 
   - **OSS**
-    - [airbyte](https://airbyte.io)
-    - [singer](https://www.singer.io/) by Stitch
+    - [Airbyte](https://airbyte.io)
+    - [Jitsu](https://jitsu.com)
+    - [Singer](https://www.singer.io/) by Stitch
 
 
 
