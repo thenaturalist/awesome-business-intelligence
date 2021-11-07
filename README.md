@@ -162,7 +162,7 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 7. Data Observability
   - **SaaS**
     - [acceldata](https://www.acceldata.io/home)
-    - [Bigeye](https://www.bigeye.com
+    - [Bigeye](https://www.bigeye.com)
     - [databand](https://databand.ai)
     - [datafold](https://www.datafold.com)
     - [Metaplane](https://www.metaplane.dev)
