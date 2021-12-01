@@ -44,6 +44,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **OSS**
     - [Beekeeper Studio](https://www.beekeeperstudio.io)
     - [Cloudbeaver](https://cloudbeaver.io)
+    - [DataStation](https://datastation.multiprocess.io)
     - [DBeaver](https://dbeaver.jkiss.org/)
     - [DbGate](https://dbgate.org/)
     - [Franchise](https://franchise.cloud/)
