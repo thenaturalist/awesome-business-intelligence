@@ -95,6 +95,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**   
     - [blazer](https://github.com/ankane/blazer) by Instacart
+    - [Datart](https://github.com/running-elephant/datart)
     - [Insights](https://github.com/mariusandra/insights)
     - [just-dashboard](https://kantord.github.io/just-dashboard/)
     - [Lightdash](https://www.lightdash.com/)
@@ -105,6 +106,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Superset](https://github.com/airbnb/superset)
     - [Zeppelin](https://zeppelin.apache.org/)
     - [Tellery](https://github.com/tellery/tellery)
+   
 
 - #### 4. Data Integration
   - **SaaS**
