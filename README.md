@@ -20,7 +20,7 @@ ToC split by SaaS and OSS (Open Source Software):
 16. [No Code Data Tools](#16-no-code-data-tools)
 17. [CI/CD](#17-ci-cd)
 
-- #### 1. Monitoring and Alerting
+- ### 1. Monitoring and Alerting
   - **SaaS**
     - [intermix](https://www.intermix.io)
     - [Kiwi](https://www.kiwimydata.com/)
@@ -28,7 +28,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Revere](https://revere.ai)
 
 
-- #### 2. SQL Client
+- ### 2. SQL Client
   - **SaaS**
     - [DataGrip](https://www.jetbrains.com/datagrip/) by JetBrains
     - [DataRow](https://www.datarow.com) for AWS Redshift
@@ -57,7 +57,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Querybook](https://www.querybook.org) by Pinterest
 
 
-- #### 3. Data Visualization
+- ### 3. Data Visualization
   - **SaaS**
     - Model approach:
       - [Count](https://count.co/)
@@ -107,7 +107,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Zeppelin](https://zeppelin.apache.org/)
     - [Tellery](https://github.com/tellery/tellery)
 
-- #### 4. Data Integration
+- ### 4. Data Integration
   - **SaaS**
     - [Alooma](https://www.alooma.com/)
     - [Blendo](https://www.blendo.co/)
@@ -127,7 +127,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
 
 
-- #### 5. Data Modeling
+- ### 5. Data Modeling
   - **SaaS**
     - [Dataflow](https://cloud.google.com/dataflow/) by Google Cloud
     - [Dataform](https://dataform.co) by Google Cloud
@@ -176,7 +176,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
 
 
-- #### 8. ETL Orchestration
+- ### 8. ETL Orchestration
   - **SaaS**
     - [Astronomer](https://www.astronomer.io/)
     - [dbt Cloud](https://cloud.getdbt.com/) by Fishtown Analytics
@@ -189,7 +189,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Pipelinewise](https://github.com/transferwise/pipelinewise) by TransferWise
     - [Prefect](https://www.prefect.io/)
 
-- #### 9. Reverse-ETL
+- ### 9. Reverse-ETL
   - **SaaS**
     - [Census](https://www.getcensus.com)
     - [Hightouch](https://hightouch.io)
@@ -201,6 +201,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Ascend](https://www.ascend.io)
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
     - [Fine BI](http://www.finebi.com) - Chinese only
+    - [GoodData](https://www.gooddata.com/)
     - [Keboola](https://www.keboola.com)
     - [MicroStrategy](https://www.microstrategy.com/)
     - [Mozart Data](https://www.mozartdata.com/)
