@@ -206,6 +206,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [MicroStrategy](https://www.microstrategy.com/)
     - [Mozart Data](https://www.mozartdata.com/)
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
+    - [Pyramid Analytics](https://www.pyramidanalytics.com/)
     - [statsbot](https://statsbot.co/)
     - [Qubole](https://www.qubole.com/)
     - [Quick BI](https://www.alibabacloud.com/de/product/quickbi) by Alibaba
