@@ -191,6 +191,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
 - ### 9. Reverse-ETL
   - **SaaS**
+    - [Castled](https://www.castled.io)  
     - [Census](https://www.getcensus.com)
     - [Hightouch](https://hightouch.io)
     - [Polytomic](https://www.polytomic.com)
