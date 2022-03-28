@@ -33,6 +33,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [DataGrip](https://www.jetbrains.com/datagrip/) by JetBrains
     - [DataRow](https://www.datarow.com) for AWS Redshift
     - [DbVisualizer](https://www.dbvis.com)
+    - [Deep Channel](https://www.deepchannel.com/)
     - [JackDB](https://www.jackdb.com/)
     - [POPSQL](https://popsql.io/)
     - [Postico](https://eggerapps.at/postico/)
