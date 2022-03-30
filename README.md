@@ -159,6 +159,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Castor](https://www.castordoc.com/)
     - [Collibra](https://www.collibra.com)
     - [Data Catalog](https://cloud.google.com/data-catalog/) by Google
+    - [Secoda](https://www.secoda.co)
     - [Selectstar](https://www.selectstar.com)
     - [Stemma](https://www.stemma.ai) by Amundsen creators
 
