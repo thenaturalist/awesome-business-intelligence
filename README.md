@@ -3,7 +3,7 @@
 A curated list of awesome tools to interact with data.
 ToC split by SaaS and OSS (Open Source Software):
 1. [Monitoring & Alerting](#1-monitoring-and-alerting)
-2. [SQL Client](#2-sql-client)
+2. [Analytics Clients](#2-analytics-clients)
 3. [Data Visualization](#3-data-visualization)
 4. [Data Integration](#4-data-integration)
 5. [Data Modeling](#5-data-modeling)
@@ -31,12 +31,13 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Chaos Genius](https://www.chaosgenius.io/)
 
 
-- ### 2. SQL Client
+- ### 2. Analytics Clients
   - **SaaS**
     - [DataGrip](https://www.jetbrains.com/datagrip/) by JetBrains
     - [DataRow](https://www.datarow.com) for AWS Redshift
     - [DbVisualizer](https://www.dbvis.com)
     - [Deep Channel](https://www.deepchannel.com/)
+    - [Hex](https://hex.tech)
     - [JackDB](https://www.jackdb.com/)
     - [POPSQL](https://popsql.io/)
     - [Postico](https://eggerapps.at/postico/)
