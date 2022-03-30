@@ -198,6 +198,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Castled](https://www.castled.io)  
     - [Census](https://www.getcensus.com)
     - [Hightouch](https://hightouch.io)
+    - [Omnata](https://omnata.com)
     - [Polytomic](https://www.polytomic.com)
 
 
