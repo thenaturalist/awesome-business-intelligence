@@ -121,6 +121,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
     - [Hevo](https://hevodata.com)
+    - [Invantive Cloud](https://cloud.invantive.com)
     - [Snaplogic](https://www.snaplogic.com/)
     - [Stitch](https://www.stitchdata.com/)
     - [Xplenty](https://www.xplenty.com/)
