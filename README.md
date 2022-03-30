@@ -37,11 +37,15 @@ ToC split by SaaS and OSS (Open Source Software):
     - [DataRow](https://www.datarow.com) for AWS Redshift
     - [DbVisualizer](https://www.dbvis.com)
     - [Deep Channel](https://www.deepchannel.com/)
+    - [evidence](https://evidence.dev)
     - [Hex](https://hex.tech)
+    - [hyperquery](https://www.hyperquery.ai)
     - [JackDB](https://www.jackdb.com/)
+    - [Lightdash](https://www.lightdash.com)
     - [POPSQL](https://popsql.io/)
     - [Postico](https://eggerapps.at/postico/)
     - [RazorSQL](https://razorsql.com/index.html)
+    - [Sigma Computing](https://www.sigmacomputing.com)
     - [Superquery](https://web.superquery.io) for Google BigQuery
     - [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms) by Microsoft
     - [Tableplus](https://tableplus.io/)
