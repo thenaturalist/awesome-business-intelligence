@@ -27,6 +27,8 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Kiwi](https://www.kiwimydata.com/)
     - [PushMetrics](http://www.pushmetrics.io)
     - [Revere](https://revere.ai)
+  - **OSS**
+    - [Chaos Genius](https://www.chaosgenius.io/)
 
 
 - ### 2. SQL Client
