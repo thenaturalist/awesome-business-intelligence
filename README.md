@@ -192,12 +192,16 @@ ToC split by SaaS and OSS (Open Source Software):
 
 - ### 8. ETL Orchestration
   - **SaaS**
+    - [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/de/managed-workflows-for-apache-airflow/)
     - [Astronomer](https://www.astronomer.io/)
+    - [Azure Data Factory](https://azure.microsoft.com/de-de/services/data-factory/)
     - [dbt Cloud](https://cloud.getdbt.com/) by Fishtown Analytics
+    - [Google Cloud Composer](https://cloud.google.com/composer)
 
-  - **OSS**
+  - **OSS / Open Core**
     - [Airflow](https://airflow.incubator.apache.org/) by Apache
     - [Azkaban](https://azkaban.github.io/)
+    - [Dagster](https://dagster.io)
     - [Luigi](https://github.com/spotify/luigi) by Spotify
     - [Pinball](https://github.com/pinterest/pinball) by Pinterest
     - [Pipelinewise](https://github.com/transferwise/pipelinewise) by TransferWise
