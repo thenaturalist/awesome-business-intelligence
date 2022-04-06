@@ -187,7 +187,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [soda](https://www.soda.io)
 
   - **OSS**
-
+    - [Monosi](https://www.monosi.dev)
 
 
 - ### 8. ETL Orchestration
