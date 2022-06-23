@@ -187,6 +187,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [soda](https://www.soda.io)
 
   - **OSS**
+    - [Elementary](https://github.com/elementary-data/elementary)
     - [Monosi](https://www.monosi.dev)
 
 
@@ -265,6 +266,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Redshift](https://aws.amazon.com/de/redshift/)
     - [Snowflake](https://www.snowflake.net/)
     - [Treasure Data](https://www.treasuredata.com/)
+    - [Hydra](https://hydras.io/)
 
   - **OSS**
     - [Apache HAWQ](https://hawq.incubator.apache.org/)
@@ -330,3 +332,6 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Datafold](https://www.datafold.com)
     - [Great Expectations](https://greatexpectations.io) by Superconductive
     - [Soda](https://www.soda.io)
+
+  - **OSS** 
+    - [Elementary](https://github.com/elementary-data/elementary)
