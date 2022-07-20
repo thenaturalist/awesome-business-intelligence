@@ -188,6 +188,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [Monosi](https://www.monosi.dev)
+    - [DQO](https://dqo.ai)
 
 
 - ### 8. ETL Orchestration
@@ -330,3 +331,5 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Datafold](https://www.datafold.com)
     - [Great Expectations](https://greatexpectations.io) by Superconductive
     - [Soda](https://www.soda.io)
+    - [DQO](https://dqo.ai)
+
