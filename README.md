@@ -211,10 +211,10 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [Castled](https://www.castled.io)  
     - [Census](https://www.getcensus.com)
+    - [Hevo](https://hevodata.com/integrations/activate/)
     - [Hightouch](https://hightouch.io)
     - [Omnata](https://omnata.com)
     - [Polytomic](https://www.polytomic.com)
-
 
 - ### 10. Data Platforms
   - **SaaS**
