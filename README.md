@@ -316,10 +316,13 @@ ToC split by SaaS and OSS (Open Source Software):
 
 - ### 16. No Code Data Tools
   - **SaaS**
+    - [noloco](https://noloco.io/) 
     - [retool](https://retool.com)
+    - [superblocks](https://www.superblocks.com/)
 
   - **OSS**
     - [appsmith](https://www.appsmith.com)
+    - [ToolJet](https://github.com/ToolJet/ToolJet/)
 
 - ### 17. CI CD
   - **SaaS**
