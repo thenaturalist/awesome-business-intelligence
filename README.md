@@ -174,6 +174,8 @@ ToC split by SaaS and OSS (Open Source Software):
     - [elementary-lineage](https://github.com/elementary-data/elementary-lineage)
     - [Marquez](https://github.com/MarquezProject/marquez) by The We Company
     - [Metacat](https://github.com/Netflix/metacat) by Netflix
+    - [Open Data Discovery](https://github.com/opendatadiscovery/odd-platform)
+    - [spline](https://github.com/AbsaOSS/spline) by Absa
 
 
 - ### 7. Data Observability
@@ -215,6 +217,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Hightouch](https://hightouch.io)
     - [Omnata](https://omnata.com)
     - [Polytomic](https://www.polytomic.com)
+    - [prequel](https://www.prequel.co/)
 
 - ### 10. Data Platforms
   - **SaaS**
@@ -316,7 +319,8 @@ ToC split by SaaS and OSS (Open Source Software):
 
 - ### 16. No Code Data Tools
   - **SaaS**
-    - [noloco](https://noloco.io/) 
+    - [noloco](https://noloco.io/)
+    - [patterns](https://www.patterns.app/) 
     - [retool](https://retool.com)
     - [superblocks](https://www.superblocks.com/)
 
