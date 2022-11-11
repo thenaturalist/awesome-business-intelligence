@@ -323,6 +323,9 @@ ToC split by SaaS and OSS (Open Source Software):
     - [patterns](https://www.patterns.app/) 
     - [retool](https://retool.com)
     - [superblocks](https://www.superblocks.com/)
+    
+   - **Desktop**
+    - [Linx](https:/linx.software)
 
   - **OSS**
     - [appsmith](https://www.appsmith.com)
