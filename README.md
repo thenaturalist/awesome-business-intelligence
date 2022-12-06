@@ -325,6 +325,9 @@ ToC split by SaaS and OSS (Open Source Software):
     - [retool](https://retool.com)
     - [rilldata](https://www.rilldata.com/)
     - [superblocks](https://www.superblocks.com/)
+    
+   - **Desktop**
+    - [Linx](https:/linx.software)
 
   - **OSS**
     - [appsmith](https://www.appsmith.com)
