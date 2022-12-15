@@ -39,6 +39,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Deep Channel](https://www.deepchannel.com/)
     - [evidence](https://evidence.dev)
     - [Hex](https://hex.tech)
+    - [Husprey](https://www.husprey.com/)
     - [hyperquery](https://www.hyperquery.ai)
     - [JackDB](https://www.jackdb.com/)
     - [Lightdash](https://www.lightdash.com)
@@ -186,6 +187,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [datafold](https://www.datafold.com)
     - [Metaplane](https://www.metaplane.dev)
     - [Monte Carlo](https://www.montecarlodata.com)
+    - [Sifflet](https://www.siffletdata.com/)
     - [soda](https://www.soda.io)
 
   - **OSS**
