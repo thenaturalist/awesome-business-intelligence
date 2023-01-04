@@ -323,9 +323,11 @@ ToC split by SaaS and OSS (Open Source Software):
 - ### 16. No Code Data Tools
   - **SaaS**
     - [Airtable](https://www.airtable.com/)
+    - [Canvas](https://canvasapp.com/)
+    - [Equals](https://equals.app/)
     - [ninox](https://ninox.com/de)
     - [noloco](https://noloco.io/)
-    - [patterns](https://www.patterns.app/) 
+    - [Patterns](https://www.patterns.app/) 
     - [retool](https://retool.com)
     - [rilldata](https://www.rilldata.com/)
     - [superblocks](https://www.superblocks.com/)
