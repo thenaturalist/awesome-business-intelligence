@@ -167,6 +167,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Data Catalog](https://cloud.google.com/data-catalog/) by Google
     - [Secoda](https://www.secoda.co)
     - [Selectstar](https://www.selectstar.com)
+    - [Sled](https://www.sled.so/) for Snowflake
     - [Stemma](https://www.stemma.ai) by Amundsen creators
 
   - **OSS**
