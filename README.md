@@ -88,6 +88,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Focuus](http://www.focuus.com/)
       - [Holistics](https://www.holistics.io/)
       - [Mode Analytics](https://modeanalytics.com/)
+      - [Noteable](https://noteable.io/)
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
       - [PowerBI](https://powerbi.microsoft.com) by Microsoft
@@ -231,6 +232,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Keboola](https://www.keboola.com)
     - [MicroStrategy](https://www.microstrategy.com/)
     - [Mozart Data](https://www.mozartdata.com/)
+    - [Noteable](https://www.noteable.io/)
     - [Pentaho](http://www.pentaho.com/) now Hitachi Vantara
     - [Pyramid Analytics](https://www.pyramidanalytics.com/)
     - [statsbot](https://statsbot.co/)
