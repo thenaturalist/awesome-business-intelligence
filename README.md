@@ -333,6 +333,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [rilldata](https://www.rilldata.com/)
     - [superblocks](https://www.superblocks.com/)
     - [Xano](https://www.xano.com/)
+    - [REI3](https://rei3.de/en/home)
 
   - **OSS**
     - [appsmith](https://www.appsmith.com)
