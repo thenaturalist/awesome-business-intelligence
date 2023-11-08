@@ -211,6 +211,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Pinball](https://github.com/pinterest/pinball) by Pinterest
     - [Pipelinewise](https://github.com/transferwise/pipelinewise) by TransferWise
     - [Prefect](https://www.prefect.io/)
+    - [Kestra](https://github.com/kestra-io/kestra)
 
 - ### 9. Reverse-ETL
   - **SaaS**
