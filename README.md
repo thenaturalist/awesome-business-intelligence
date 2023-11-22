@@ -33,6 +33,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
 - ### 2. Analytics Clients
   - **SaaS**
+    - [Airbook](https://airbook.io)
     - [DataGrip](https://www.jetbrains.com/datagrip/) by JetBrains
     - [DataRow](https://www.datarow.com) for AWS Redshift
     - [DbVisualizer](https://www.dbvis.com)
