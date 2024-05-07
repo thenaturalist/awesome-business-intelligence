@@ -193,6 +193,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [Monosi](https://www.monosi.dev)
+    - [DataKitchen Open Source Data Observability](https://docs.datakitchen.io/articles/?readerUiPreview=1#!open-source-data-observability/data-observability-overview) - End to end Data Journey Observability plus data profiling, anomaly detection, and auto created data quality validation tests.  With UI. Apache 2.0 license
 
 
 - ### 8. ETL Orchestration
