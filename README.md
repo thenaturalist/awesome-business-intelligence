@@ -226,6 +226,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [Ascend](https://www.ascend.io)
     - [Cloud Analytics](https://www.sap.com/products/cloud-analytics.html) by SAP
+    - [Definite](https://www.definite.app/)
     - [Fine BI](http://www.finebi.com) - Chinese only
     - [GoodData](https://www.gooddata.com/)
     - [Keboola](https://www.keboola.com)
