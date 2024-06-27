@@ -37,7 +37,6 @@ ToC split by SaaS and OSS (Open Source Software):
     - [DataRow](https://www.datarow.com) for AWS Redshift
     - [DbVisualizer](https://www.dbvis.com)
     - [Deep Channel](https://www.deepchannel.com/)
-    - [evidence](https://evidence.dev)
     - [Hex](https://hex.tech)
     - [Husprey](https://www.husprey.com/)
     - [hyperquery](https://www.hyperquery.ai)
@@ -108,6 +107,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [blazer](https://github.com/ankane/blazer) by Instacart
     - [Chartbrew](https://chartbrew.com/)
     - [Datart](https://github.com/running-elephant/datart) (CN only language support)
+    - [evidence](https://evidence.dev)
     - [Insights](https://github.com/mariusandra/insights)
     - [just-dashboard](https://kantord.github.io/just-dashboard/)
     - [Lightdash](https://www.lightdash.com/)
