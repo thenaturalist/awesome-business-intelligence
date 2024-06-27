@@ -194,6 +194,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **OSS**
     - [Elementary](https://github.com/elementary-data/elementary)
     - [Monosi](https://www.monosi.dev)
+    - [DQO](https://dqo.ai)
 
 
 - ### 8. ETL Orchestration
