@@ -194,9 +194,10 @@ ToC split by SaaS and OSS (Open Source Software):
     - [soda](https://www.soda.io)
 
   - **OSS**
+    - [DataKitchen](https://datakitchen.io/)
+    - [DQO](https://dqo.ai)
     - [Elementary](https://github.com/elementary-data/elementary)
     - [Monosi](https://www.monosi.dev)
-    - [DQO](https://dqo.ai)
 
 
 - ### 8. ETL Orchestration
