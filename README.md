@@ -81,6 +81,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Cluvio](https://www.cluvio.com/)
       - [Contiamo](https://www.contiamo.com/)
       - [Cumul.io](https://cumul.io/)
+      - [CxReports](https://www.cx-reports.com)
       - [Datapine](https://www.datapine.com)
       - [Data Studio](https://www.google.com/analytics/data-studio/) by Google
       - [Domo](https://www.domo.com/)
