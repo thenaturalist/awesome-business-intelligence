@@ -192,6 +192,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [soda](https://www.soda.io)
 
   - **OSS**
+    - [Elementary](https://github.com/elementary-data/elementary)
     - [Monosi](https://www.monosi.dev)
 
 
@@ -267,6 +268,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Data Virtuality](http://datavirtuality.com/)
     - [Exasol](http://www.exasol.com/)
     - [Firebolt](http://firebolt.io/)
+    - [Hydra](https://hydra.so/)
     - [MemSQL](https://www.memsql.com)
     - [Panoply](https://panoply.io/)
     - [Redshift](https://aws.amazon.com/de/redshift/)
