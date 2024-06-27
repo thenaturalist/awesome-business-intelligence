@@ -128,6 +128,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Fivetran](https://www.fivetran.com/)
     - [Hevo](https://hevodata.com)
     - [Invantive Cloud](https://cloud.invantive.com)
+    - [Linx](https:/linx.software)
     - [Snaplogic](https://www.snaplogic.com/)
     - [Stitch](https://www.stitchdata.com/)
     - [Xplenty](https://www.xplenty.com/)
@@ -213,6 +214,8 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Pinball](https://github.com/pinterest/pinball) by Pinterest
     - [Pipelinewise](https://github.com/transferwise/pipelinewise) by TransferWise
     - [Prefect](https://www.prefect.io/)
+    - [Windmill](https://github.com/windmill-labs/windmill)
+
 
 - ### 9. Reverse-ETL
   - **SaaS**
@@ -329,20 +332,10 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Airtable](https://www.airtable.com/)
     - [Canvas](https://canvasapp.com/)
     - [Equals](https://equals.app/)
-    - [ninox](https://ninox.com/de)
-    - [noloco](https://noloco.io/)
-    - [Patterns](https://www.patterns.app/) 
-    - [retool](https://retool.com)
     - [rilldata](https://www.rilldata.com/)
-    - [superblocks](https://www.superblocks.com/)
-    - [Xano](https://www.xano.com/)
 
   - **OSS**
-    - [appsmith](https://www.appsmith.com)
     - [nocodb](https://www.nocodb.com/)
-    - [Orchest](https://www.orchest.io/)
-    - [ToolJet](https://github.com/ToolJet/ToolJet/)
-    - [Windmill](https://docs.windmill.dev/)
 
 - ### 17. CI CD
   - **SaaS**
