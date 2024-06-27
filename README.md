@@ -211,6 +211,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Airflow](https://airflow.incubator.apache.org/) by Apache
     - [Azkaban](https://azkaban.github.io/)
     - [Dagster](https://dagster.io)
+    - [Kestra](https://github.com/kestra-io/kestra)
     - [Luigi](https://github.com/spotify/luigi) by Spotify
     - [Pinball](https://github.com/pinterest/pinball) by Pinterest
     - [Pipelinewise](https://github.com/transferwise/pipelinewise) by TransferWise
