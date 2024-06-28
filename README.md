@@ -146,6 +146,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [Dataflow](https://cloud.google.com/dataflow/) by Google Cloud
     - [Dataform](https://dataform.co) by Google Cloud
+    - [dbt Cloud](https://www.getdbt.com/) by dbt Labs
     - [Glue](https://aws.amazon.com/de/glue/) by AWS
     - [Matillion](https://www.matillion.com/)
     - [MODLR](https://modlr.co/)
@@ -155,7 +156,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [Beam](https://beam.apache.org/) by Apache
-    - [dbt (data build tool)](https://www.getdbt.com/) by Fishtown Analytics
+    - [dbt Core](https://github.com/dbt-labs/dbt-core) by dbt Labs
     - [embulk](https://github.com/embulk/embulk)
     - [Mara](https://github.com/mara/data-integration) by Project A
     - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
