@@ -158,7 +158,6 @@ ToC split by SaaS and OSS (Open Source Software):
     - [dbt (data build tool)](https://www.getdbt.com/) by Fishtown Analytics
     - [embulk](https://github.com/embulk/embulk)
     - [Mara](https://github.com/mara/data-integration) by Project A
-    - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
     - [Zillion](https://totalhack.github.io/zillion/)
 
 - ### 6. Data Discovery and Lineage
