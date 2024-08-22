@@ -77,6 +77,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
     - SQL or other:
       - [Birst](https://www.birst.com/)
+      - [Bold BI](https://www.boldbi.com/) by Syncfusion
       - [Chartio](https://chartio.com/)
       - [Cluvio](https://www.cluvio.com/)
       - [Contiamo](https://www.contiamo.com/)
