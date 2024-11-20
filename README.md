@@ -58,7 +58,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [DBeaver](https://dbeaver.jkiss.org/)
     - [DbGate](https://dbgate.org/)
     - [Franchise](https://franchise.cloud/)
-    - [OmniDB](https://omnidb.org/index.php/en/)
+    - [OmniDB](https://github.com/OmniDB/OmniDB)
     - [Sqlelectron](https://sqlectron.github.io/)
     - [SQL Tabs](https://www.sqltabs.com/)
     - [SQuirreL SQL](http://www.squirrelsql.org/)
