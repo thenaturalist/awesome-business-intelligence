@@ -314,6 +314,9 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **SaaS**
     - [SqlDBM](https://sqldbm.com/Home/)
+   
+  - **OSS**
+    - [Liam ERD](https://github.com/liam-hq/liam)
 
 
 - ### 14. Customer Data Platforms
