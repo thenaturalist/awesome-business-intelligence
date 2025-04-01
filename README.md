@@ -180,6 +180,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Marquez](https://github.com/MarquezProject/marquez) by The We Company
     - [Metacat](https://github.com/Netflix/metacat) by Netflix
     - [Open Data Discovery](https://github.com/opendatadiscovery/odd-platform)
+    - [Open Metadata](https://open-metadata.org/)
     - [spline](https://github.com/AbsaOSS/spline) by Absa
 
 
@@ -215,9 +216,12 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Dagster](https://dagster.io)
     - [Kestra](https://github.com/kestra-io/kestra)
     - [Luigi](https://github.com/spotify/luigi) by Spotify
+    - [Mage-ai](https://www.mage.ai/)
+    - [Nifi](https://nifi.apache.org) by Apache
     - [Pinball](https://github.com/pinterest/pinball) by Pinterest
     - [Pipelinewise](https://github.com/transferwise/pipelinewise) by TransferWise
     - [Prefect](https://www.prefect.io/)
+    - [Sling](https://slingdata.io/)
     - [Windmill](https://github.com/windmill-labs/windmill)
 
 
@@ -286,10 +290,11 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [Apache HAWQ](https://hawq.incubator.apache.org/)
+    - [Minio](https://min.io/)
     - [MySQL](https://www.mysql.com)
     - [PipelineDB](https://www.pipelinedb.com/)
     - [PostgreSQL](https://www.postgresql.org/)
-
+    - [Starrocks](https://www.starrocks.io/)
   - **SaaS on-prem**
     - [Yellowbrick](https://yellowbrick.com)
 
