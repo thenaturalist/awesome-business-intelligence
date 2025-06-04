@@ -338,6 +338,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Canvas](https://canvasapp.com/)
     - [Equals](https://equals.app/)
     - [rilldata](https://www.rilldata.com/)
+    - [Visivo](https://visivo.io/)
 
   - **OSS**
     - [nocodb](https://www.nocodb.com/)
