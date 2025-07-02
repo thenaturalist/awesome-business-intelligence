@@ -126,6 +126,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Blendo](https://www.blendo.co/)
     - [Celigo Integrator](https://www.celigo.com/ipaas-integration-platform/)
     - [Datacoral](https://datacoral.com)
+    - [Estuary](https://estuary.dev/)
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
     - [Hevo](https://hevodata.com)
