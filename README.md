@@ -37,6 +37,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [DataRow](https://www.datarow.com) for AWS Redshift
     - [DbVisualizer](https://www.dbvis.com)
     - [Deep Channel](https://www.deepchannel.com/)
+    - [Dot](https://www.getdot.ai)
     - [Hex](https://hex.tech)
     - [Husprey](https://www.husprey.com/)
     - [hyperquery](https://www.hyperquery.ai)
