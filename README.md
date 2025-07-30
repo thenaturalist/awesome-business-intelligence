@@ -306,6 +306,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **OSS**
     - [Knowledge Repo](https://github.com/airbnb/knowledge-repo) by Airbnb
     - [openKB](https://github.com/mrvautin/openKB)
+    - [AI For Developers](https://aifordevelopers.org/) 
 
 - ### 13. Database Modeler
   - **Free SaaS**
