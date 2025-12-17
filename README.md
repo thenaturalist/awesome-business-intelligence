@@ -70,6 +70,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - Model approach:
       - [Count](https://count.co/)
+      - [Embeddable](https://embeddable.com/)
       - [Holistics](https://www.holistics.io/)
       - [Looker](https://looker.com/)
       - [Numetric](https://www.numetric.com/)
@@ -336,6 +337,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [Airtable](https://www.airtable.com/)
     - [Canvas](https://canvasapp.com/)
+    - [Embeddable](https://embeddable.com/)
     - [Equals](https://equals.app/)
     - [rilldata](https://www.rilldata.com/)
 
