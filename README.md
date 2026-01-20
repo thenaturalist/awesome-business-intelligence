@@ -318,6 +318,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
 - ### 14. Customer Data Platforms
   - **SaaS**
+    - [feedback.tools](https://feedback.tools)
     - [mparticle](https://www.mparticle.com)
     - [Segment](https://segment.com)
 
