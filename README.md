@@ -27,6 +27,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Kiwi](https://www.kiwimydata.com/)
     - [PushMetrics](http://www.pushmetrics.io)
     - [Revere](https://revere.ai)
+    - [ShopSavvy Business](https://shopsavvy.com/business) - Automated retail price monitoring and competitor tracking across 70,000+ retailers
   - **OSS**
     - [Chaos Genius](https://www.chaosgenius.io/)
 
