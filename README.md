@@ -27,6 +27,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Kiwi](https://www.kiwimydata.com/)
     - [PushMetrics](http://www.pushmetrics.io)
     - [Revere](https://revere.ai)
+    - [Signals CLI](https://github.com/sortlist/signals-cli) - B2B intent signal monitoring. Track LinkedIn engagement, keyword posters, job changers, funding events. JSON output.
   - **OSS**
     - [Chaos Genius](https://www.chaosgenius.io/)
 
