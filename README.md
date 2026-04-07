@@ -346,6 +346,10 @@ ToC split by SaaS and OSS (Open Source Software):
   - **SaaS**
     - [Spectacles](https://www.spectacles.dev) for Looker
 
+- ### 19. AI Skills & Personas Marketplace
+  - **SaaS**
+    - [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
+
 - ### 18. Data Reliability
   - **SaaS**
     - [Bigeye](https://www.bigeye.com)
