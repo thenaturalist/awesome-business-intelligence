@@ -49,6 +49,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Superquery](https://web.superquery.io) for Google BigQuery
     - [SQL Server Management Studio](https://docs.microsoft.com/sql/ssms/sql-server-management-studio-ssms) by Microsoft
     - [Tableplus](https://tableplus.io/)
+    - [AI for Database](https://aifordatabase.com) - AI-powered database client. Query any connected database in plain English, build self-refreshing dashboards, and trigger automated workflows — no SQL required.
     - [Query Me](https://query.me)
 
   - **OSS**
