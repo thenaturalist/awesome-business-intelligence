@@ -54,6 +54,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **OSS**
     - [Beekeeper Studio](https://www.beekeeperstudio.io)
     - [Cloudbeaver](https://cloudbeaver.io)
+    - [DataSpoc Lens](https://github.com/dataspoclab/dataspoc-lens) SQL over cloud Parquet (S3/GCS/Azure) via DuckDB, with Jupyter/Marimo notebooks and AI queries
     - [DataStation](https://datastation.multiprocess.io)
     - [DBeaver](https://dbeaver.jkiss.org/)
     - [DbGate](https://dbgate.org/)
