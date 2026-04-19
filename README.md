@@ -116,6 +116,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [poli](https://github.com/shzlw/poli)
     - [Redash](https://github.com/getredash/redash)
     - [Smashing](https://smashing.github.io/)
+    - [stratif.io](https://stratif.io)
     - [Superset](https://github.com/airbnb/superset)
     - [Zeppelin](https://zeppelin.apache.org/)
     - [Tellery](https://github.com/tellery/tellery)
