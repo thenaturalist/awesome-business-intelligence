@@ -246,6 +246,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [statsbot](https://statsbot.co/)
     - [Qubole](https://www.qubole.com/)
     - [Quick BI](https://www.alibabacloud.com/de/product/quickbi) by Alibaba
+    - [rawquery](https://rawquery.dev) - DuckDB + Iceberg lakehouse, EU-hosted
     - [Weld](https://weld.app)
     - [Whaly](https://www.whaly.io)
     - [y42](https://www.y42.com)
