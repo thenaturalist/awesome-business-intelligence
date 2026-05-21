@@ -323,6 +323,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [Rudderstack](https://rudderstack.com)
+    - [Beton Inspector](https://github.com/getbeton/inspector)
 
 
 - ### 15. Workflow Automation
