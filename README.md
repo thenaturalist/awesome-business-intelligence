@@ -331,6 +331,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [n8n](https://n8n.io)
+    - [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring API for AI analytics agents on Solana. Verify agent wallet identity before x402 micropayments to BI and data warehouse APIs. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 - ### 16. No Code Data Tools
   - **SaaS**
