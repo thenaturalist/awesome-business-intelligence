@@ -37,6 +37,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [DataRow](https://www.datarow.com) for AWS Redshift
     - [DbVisualizer](https://www.dbvis.com)
     - [Deep Channel](https://www.deepchannel.com/)
+    - [Helical Insight](https://www.helicalinsight.com/)
     - [Hex](https://hex.tech)
     - [Husprey](https://www.husprey.com/)
     - [hyperquery](https://www.hyperquery.ai)
@@ -58,6 +59,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [DBeaver](https://dbeaver.jkiss.org/)
     - [DbGate](https://dbgate.org/)
     - [Franchise](https://franchise.cloud/)
+    - [Helical Insight](https://www.helicalinsight.com/)
     - [OmniDB](https://omnidb.org/index.php/en/)
     - [Sqlelectron](https://sqlectron.github.io/)
     - [SQL Tabs](https://www.sqltabs.com/)
@@ -109,6 +111,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Chartbrew](https://chartbrew.com/)
     - [Datart](https://github.com/running-elephant/datart) (CN only language support)
     - [evidence](https://evidence.dev)
+    - [Helical Insight](https://www.helicalinsight.com/)
     - [Insights](https://github.com/mariusandra/insights)
     - [just-dashboard](https://kantord.github.io/just-dashboard/)
     - [Lightdash](https://www.lightdash.com/)
