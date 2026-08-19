@@ -107,6 +107,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **OSS**   
     - [blazer](https://github.com/ankane/blazer) by Instacart
     - [Chartbrew](https://chartbrew.com/)
+    - [DAC](https://github.com/bruin-data/dac)
     - [Datart](https://github.com/running-elephant/datart) (CN only language support)
     - [evidence](https://evidence.dev)
     - [Insights](https://github.com/mariusandra/insights)
@@ -137,6 +138,7 @@ ToC split by SaaS and OSS (Open Source Software):
 
   - **OSS**
     - [Airbyte](https://airbyte.io)
+    - [ingestr](https://github.com/bruin-data/ingestr)
     - [Jitsu](https://jitsu.com)
     - [Singer](https://www.singer.io/) by Stitch
 
@@ -212,6 +214,7 @@ ToC split by SaaS and OSS (Open Source Software):
   - **OSS / Open Core**
     - [Airflow](https://airflow.incubator.apache.org/) by Apache
     - [Azkaban](https://azkaban.github.io/)
+    - [Bruin](https://github.com/bruin-data/bruin)
     - [Dagster](https://dagster.io)
     - [Kestra](https://github.com/kestra-io/kestra)
     - [Luigi](https://github.com/spotify/luigi) by Spotify
