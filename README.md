@@ -238,6 +238,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Definite](https://www.definite.app/)
     - [Fine BI](http://www.finebi.com) - Chinese only
     - [GoodData](https://www.gooddata.com/)
+    - [Inteldo](https://inteldo.com/)
     - [Keboola](https://www.keboola.com)
     - [MicroStrategy](https://www.microstrategy.com/)
     - [Mozart Data](https://www.mozartdata.com/)
