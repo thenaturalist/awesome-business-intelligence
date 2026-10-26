@@ -352,3 +352,4 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Datafold](https://www.datafold.com)
     - [Great Expectations](https://greatexpectations.io) by Superconductive
     - [Soda](https://www.soda.io)
+* [Level Open Finance & Benchmarks](https://levelcfo.com/benchmarks/) - Open-source financial benchmark datasets, software-stack comparisons, and accounting BI verification playbooks ([GitHub](https://github.com/levelcfo/smb-financial-benchmarks)).
