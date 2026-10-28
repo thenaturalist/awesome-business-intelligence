@@ -60,6 +60,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Franchise](https://franchise.cloud/)
     - [OmniDB](https://omnidb.org/index.php/en/)
     - [Sqlelectron](https://sqlectron.github.io/)
+    - [Tabularis](https://github.com/TabularisDB/tabularis)
     - [SQL Tabs](https://www.sqltabs.com/)
     - [SQuirreL SQL](http://www.squirrelsql.org/)
     - [Sequel Ace](https://sequel-ace.com/)
