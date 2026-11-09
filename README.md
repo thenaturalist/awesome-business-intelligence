@@ -113,6 +113,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [just-dashboard](https://kantord.github.io/just-dashboard/)
     - [Lightdash](https://www.lightdash.com/)
     - [Metabase](http://www.metabase.com/)
+    - [Open Reports](https://github.com/varaprasadreddy9676/open-reports) ([demo](https://open-reports-demo.onrender.com/)) - Self-hosted report designer and rendering API for application teams, with JSON templates and a partial JRXML importer.
     - [poli](https://github.com/shzlw/poli)
     - [Redash](https://github.com/getredash/redash)
     - [Smashing](https://smashing.github.io/)
