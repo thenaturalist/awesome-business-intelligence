@@ -91,6 +91,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
       - [PowerBI](https://powerbi.microsoft.com) by Microsoft
+      - [ProcessMind](https://processmind.com/) - process intelligence dashboards: KPI and bottleneck views built from event-log data rather than a warehouse.
       - [Saiku Analytics](https://www.meteorite.bi/)
       - [SeekTable](https://www.seektable.com)
       - [ShareInsights](https://accelerite.com/products/shareinsights/) by accelerite
